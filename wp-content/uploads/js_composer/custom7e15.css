@@ -1,0 +1,20 @@
+.smile_icon_list:after {
+	clear: both;
+}
+.smile_icon_list:before,
+.smile_icon_list:after {
+	display: table;
+	content: "";
+}
+.smile_icon_list li.icon_list_item {
+    float: left;
+}
+.smile_icon_list.circle {
+  height: auto !important;
+  border-radius: 0 !important;
+}
+
+/* Info Box */
+.aio-icon-top .aio-icon.circle {
+	float: none !important;
+}
