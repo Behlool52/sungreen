@@ -1,3 +1,4 @@
+
 <!-- Mirrored from crane.grooni.com/f-a-q/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Oct 2018 18:52:29 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -607,9 +608,24 @@ span.wpcf7-list-item {
     
     <li id="menu-item-6416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Off Grid</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
 	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-6411" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-sidebar-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry sidebar 2 columns</span></a></li>
-		<li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-sidebar-3/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry sidebar 3 columns</span></a></li>
-		<li id="menu-item-6543" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="masonry-fullwidth-with-sidebar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry Fullwidth with Two Sidebars</span></a></li>
+    
+    
+		 <li id="menu-item-6072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="category/masonry-sidebar-3/index.html" class="gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Solax</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
+  
+   <ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
+        
+        
+		<li id="menu-item-6411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item"><a href="the-solaxbox.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">The-Solaxbox</span></a></li>
+		
+		
+       
+        </ul>
+        
+        </li>
+        
+        
+		<li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="selectronics.php" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Selectronics</span></a></li>
+		<li id="menu-item-6543" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="alpha-ess.php" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Alpha ESS</span></a></li>
 	</ul>
     
     

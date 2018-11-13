@@ -1,5 +1,5 @@
-<!DOCTYPE html>
-<html lang="en-US">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
 
 <!-- Mirrored from crane.grooni.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Oct 2018 18:05:22 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->

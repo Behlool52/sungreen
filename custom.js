@@ -52,6 +52,8 @@ Designed and Development by: ScriptsBundle
     });
 	
 	/* ======= Fun Fact Counter  ======= */
+	
+	
 	 $('.counter-stats').counterUp({
         delay: 10,
         time: 2000
