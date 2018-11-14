@@ -54,8 +54,8 @@ img.wp-smiley, img.emoji {
 <link rel='stylesheet' id='ultimate-style-min-css'  href='wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min957f.css?ver=3.16.25' type='text/css' media='all' />
 <link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.min7e15.css?ver=5.5.4' type='text/css' media='all' />
 <link rel='stylesheet' id='js_composer_custom_css-css'  href='wp-content/uploads/js_composer/custom7e15.css?ver=5.5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='crane-style-css'  href='wp-content/themes/crane/style79cd.css?ver=1.3.7.1' type='text/css' media='all' />
-<link rel='stylesheet' id='crane-style-main-css'  href='wp-content/themes/crane/assets/css/style-main.min79cd.css?ver=1.3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='crane-style-css'  href='assets/css/style79cd.css?ver=1.3.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='crane-style-main-css'  href='assets/css/style-main.min79cd.css?ver=1.3.7.1' type='text/css' media='all' />
 
 
 <link rel='stylesheet' id='crane-style-css'  href='bootstrap.css' type='text/css' media='all' />
@@ -349,9 +349,9 @@ background: #cccccc;
 var slide_in = {"demo_dir":"http:\/\/crane.grooni.com\/wp-content\/plugins\/convertplug\/modules\/slide_in\/assets\/demos"};
 /* ]]> */
 </script>
-<script type='text/javascript' src='wp-includes/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
-<script type='text/javascript' src='wp-includes/js/jquery/ui/core.mine899.js?ver=1.11.4'></script>
+<script type='text/javascript' src='assets/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
+<script type='text/javascript' src='assets/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
+<script type='text/javascript' src='assets/js/jquery/ui/core.mine899.js?ver=1.11.4'></script>
 <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate.min957f.js?ver=3.16.25'></script>
 <link rel='https://api.w.org/' href='wp-json/index.html' />
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
