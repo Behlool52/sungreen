@@ -578,21 +578,25 @@ span.wpcf7-list-item {
 <div class="screen-reader-response"></div>
 
 
-<form action="" method="post" class="wpcf7-form wpcf7-acceptance-as-validation" novalidate>
-<div style="display: none;">
-<input type="hidden" name="_wpcf7" value="26" />
-<input type="hidden" name="_wpcf7_version" value="5.0.4" />
-<input type="hidden" name="_wpcf7_locale" value="en_US" />
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f26-p27-o1" />
-<input type="hidden" name="_wpcf7_container_post" value="27" />
-</div>
+<form action="" method="post">
+
 <div class="form-inline controls">
 
-<p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control floatLabel" aria-required="true" aria-invalid="false" /></span><label class="controls__label" for="your-name">Your name *</label></p>
+<p>
+<span class="wpcf7-form-control-wrap your-name">
+<input type="text" name="name" id="name" value="" size="40" id="name" class="wpcf7-form-control wpcf7-text form-control floatLabel" aria-required="true" /></span>
+ <label class="control-label" for="name">Name</label>
+</p>
 
-<p><span class="wpcf7-form-control-wrap your-website"><input type="text" name="your-website" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control floatLabel" aria-required="true" aria-invalid="false" /></span><label class="controls__label" for="your-website">Your website *</label></p>
+<p><span class="wpcf7-form-control-wrap your-website">
+<input type="text" id="website" name="your-website" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control floatLabel" aria-required="true" aria-invalid="false" /></span>
+<label class="controls__label" for="your-website">Your website *</label>
+</p>
 
-<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control contact-us__form__input floatLabel" aria-required="true" aria-invalid="false" /></span><label class="controls__label" for="your-email">Your email *</label></p>
+<p><span class="wpcf7-form-control-wrap your-email">
+<input type="email" id="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control contact-us__form__input floatLabel" aria-required="true" aria-invalid="false" /></span>
+<label class="controls__label" for="your-email">Your email *</label>
+</p>
 
 </div>
 
@@ -600,10 +604,10 @@ span.wpcf7-list-item {
 <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" aria-invalid="false"></textarea></span>
 </p>
 
+<p><input type="button" id="contactform" class="btn" value="SEND"></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div>
 
-
-<p><input type="submit" value="send" class="wpcf7-form-control wpcf7-submit btn dark-btn" /></p>
-<div class="wpcf7-response-output wpcf7-display-none"></div></form>
+</form>
 </div>
 <div class="ult-spacer spacer-5bcb705f2353e" data-id="5bcb705f2353e" data-height="95" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="50" data-height-mobile-landscape="50" style="clear:both;display:block;"></div></div></div></div>
 
