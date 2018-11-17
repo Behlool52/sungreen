@@ -578,23 +578,24 @@ span.wpcf7-list-item {
 <div class="screen-reader-response"></div>
 
 
-<form action="" method="post">
+<form action="process.php" method="POST">
 
 <div class="form-inline controls">
 
 <p>
-<span class="wpcf7-form-control-wrap your-name">
+<span class="wpcf7-form-control-wrap your-name" id="name-group">
 <input type="text" name="name" id="name" value="" size="40" id="name" class="wpcf7-form-control wpcf7-text form-control floatLabel" aria-required="true" /></span>
- <label class="control-label" for="name">Name</label>
+<label for="name">Name</label> 
+
 </p>
 
 <p><span class="wpcf7-form-control-wrap your-website">
-<input type="text" id="website" name="your-website" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control floatLabel" aria-required="true" aria-invalid="false" /></span>
+<input type="text" name="website" id="website" name="your-website" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required form-control floatLabel" aria-required="true" aria-invalid="false" /></span>
 <label class="controls__label" for="your-website">Your website *</label>
 </p>
 
-<p><span class="wpcf7-form-control-wrap your-email">
-<input type="email" id="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control contact-us__form__input floatLabel" aria-required="true" aria-invalid="false" /></span>
+<p><span class="wpcf7-form-control-wrap your-email" id="email-group">
+<input type="email" id="email" name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email form-control contact-us__form__input floatLabel" aria-required="true" aria-invalid="false" /></span>
 <label class="controls__label" for="your-email">Your email *</label>
 </p>
 
@@ -604,7 +605,7 @@ span.wpcf7-list-item {
 <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" aria-invalid="false"></textarea></span>
 </p>
 
-<p><input type="button" id="contactform" class="btn" value="SEND"></p>
+<p><button type="submit" class="btn btn-success">Submit <span class="fa fa-arrow-right"></span></button></p>
 <div class="wpcf7-response-output wpcf7-display-none"></div>
 
 </form>
