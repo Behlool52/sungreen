@@ -326,230 +326,178 @@ span.wpcf7-list-item {
 					
 					
 					<div class="gm-main-menu-wrapper">
-						<nav id="gm-main-menu">
+						
+					<nav id="gm-main-menu">
 							<ul id="menu-main-menu" class="gm-navbar-nav">
-							<li id="menu-item-1138" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children gm-menu-item gm-dropdown"><a href="#" class=" gm-dropdown-toggle">
-							<span class="gm-menu-item__icon groovy-69018-home"></span><span class="gm-menu-item__txt">Home</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
-<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-1 gm-dropdown-menu--background' style='background-image: url(wp-content/uploads/2017/07/ba185a57c03f69bfbcd88d6e90abebde-optimized.jpg);background-repeat: no-repeat;background-position: center center;'>
-	<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-67 current_page_item has-attachment-thumbnail gm-menu-item"><a href="index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Original Home</span><img width="300" height="339" src="wp-content/uploads/2015/06/home1-598x677.jpg" class="attachment-menu-thumb size-menu-thumb" alt="" srcset="http://crane.grooni.com/wp-content/uploads/2015/06/home1-598x677.jpg 598w, http://crane.grooni.com/wp-content/uploads/2015/06/home1-265x300.jpg 265w, http://crane.grooni.com/wp-content/uploads/2015/06/home1.jpg 700w" sizes="(max-width: 300px) 100vw, 300px" /></a></li>
-	<li id="menu-item-363" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-3/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Portfolio Home</span></a></li>
-	<li id="menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Portfolio with Map Home</span></a></li>
-	<li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-4/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Interior Home</span></a></li>
-	<li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-5/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Light Home</span></a></li>
-	<li id="menu-item-652" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-6/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Hipster Home</span></a></li>
-	<li id="menu-item-672" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-7/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Intro Home</span></a></li>
-	<li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-8/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Corporate Home</span></a></li>
-	<li id="menu-item-707" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-9/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">One page</span></a></li>
-	<li id="menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-10/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Shop Home</span></a></li>
-	<li id="menu-item-923" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-11/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Dark Home</span></a></li>
-	<li id="menu-item-9376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">New demos</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
-<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-9379" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="barber/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Barber Home</span></a></li>
-		<li id="menu-item-9378" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="cargo/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Cargo Home</span></a></li>
-		<li id="menu-item-9377" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="education/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Education Home</span></a></li>
-		<li id="menu-item-9528" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="yoga/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Yoga Home</span></a></li>
-		<li id="menu-item-9529" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="wedding/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Wedding Home</span></a></li>
-	</ul>
+                            <li id="menu-item-1138" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children gm-menu-item gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-home"></span><span class="gm-menu-item__txt">Home</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
+
+
 </li>
-</ul>
-</li>
-<li id="menu-item-1141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown mega-gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-paper-plane"></span><span class="gm-menu-item__txt">About Us</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
-<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-1 gm-dropdown-menu--background' style='background-image: url(wp-content/uploads/2017/07/ba185a57c03f69bfbcd88d6e90abebde-optimized.jpg);background-repeat: no-repeat;background-position: center center;'>
-<li><div style="" class="gm-mega-menu-wrapper"><div class="gm-grid-container"><div class="gm-grid-row"><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Portfolio case study</div>
-	<ul class='' style=''>
-		<li id="menu-item-5851" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="ui/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">UI Kit Promo</span></a></li>
-		<li id="menu-item-443" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="portfolio-single-basic/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Interior Design</span></a></li>
-		<li id="menu-item-459" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="portfolio-single-creative/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Creative</span></a></li>
-		<li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="parallax-portfolio/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Parallax Portfolio</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Portfolio single page</div>
-	<ul class='' style=''>
-		<li id="menu-item-5852" class="menu-item menu-item-type-post_type menu-item-object-crane_portfolio gm-menu-item"><a href="portfolio/full-height-top-image/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Full height top image</span></a></li>
-		<li id="menu-item-3038" class="menu-item menu-item-type-post_type menu-item-object-crane_portfolio gm-menu-item"><a href="portfolio/image-at-top/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Image at top</span></a></li>
-		<li id="menu-item-4047" class="menu-item menu-item-type-post_type menu-item-object-crane_portfolio gm-menu-item"><a href="portfolio/posrtfolio-grid-images/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Grid images</span></a></li>
-		<li id="menu-item-5855" class="menu-item menu-item-type-post_type menu-item-object-crane_portfolio gm-menu-item"><a href="portfolio/slider-images/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Slider images</span></a></li>
-		<li id="menu-item-5854" class="menu-item menu-item-type-post_type menu-item-object-crane_portfolio gm-menu-item"><a href="portfolio/image-at-right/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Image at right</span></a></li>
-		<li id="menu-item-5853" class="menu-item menu-item-type-post_type menu-item-object-crane_portfolio gm-menu-item"><a href="portfolio/image-at-left/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Image at left</span></a></li>
-		<li id="menu-item-2890" class="menu-item menu-item-type-post_type menu-item-object-crane_portfolio gm-menu-item"><a href="portfolio/images-at-left/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Few images at left</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Portfolio classic</div>
-	<ul class='' style=''>
-		<li id="menu-item-2979" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="two-columns-classic/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Two columns classic</span></a></li>
-		<li id="menu-item-3008" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="three-columns-classic/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Three columns classic</span></a></li>
-		<li id="menu-item-3007" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="four-columns-classic/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Four columns classic</span></a></li>
-		<li id="menu-item-3006" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="no-excerpt-classic/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">No excerpt classic</span></a></li>
-		<li id="menu-item-3005" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="full-width-classic/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Full width classic</span></a></li>
-		<li id="menu-item-3004" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="outline-sortable/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Outline sortable</span></a></li>
-		<li id="menu-item-3003" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="in-grid-sortable-classic/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">In grid sortable classic</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">PORTFOLIO MASONRY</div>
-	<ul class='' style=''>
-		<li id="menu-item-5860" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="spaced-masonry-wide/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Spaced masonry wide</span></a></li>
-		<li id="menu-item-5859" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="no-space-masonry-wide/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">No space masonry wide</span></a></li>
-		<li id="menu-item-3012" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="spaced-masonry/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Spaced masonry</span></a></li>
-		<li id="menu-item-2656" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="no-space-masonry/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">No space masonry</span></a></li>
-		<li id="menu-item-5858" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="masonry-three-columns/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry three columns</span></a></li>
-		<li id="menu-item-5857" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="masonry-four-columns/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry four columns</span></a></li>
-		<li id="menu-item-5856" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="masonry-six-columns/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry six columns</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Portfolio grid</div>
-	<ul class='' style=''>
-		<li id="menu-item-2655" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="two-columns-grid/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Two columns grid</span></a></li>
-		<li id="menu-item-3036" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="three-columns-grid/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Three columns grid</span></a></li>
-		<li id="menu-item-3035" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="four-columns-grid/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Four columns grid</span></a></li>
-		<li id="menu-item-5861" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="five-columns-grid/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Five columns grid</span></a></li>
-		<li id="menu-item-3034" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="no-space-grid/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">No space grid</span></a></li>
-		<li id="menu-item-3033" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="full-width-grid/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Full width grid</span></a></li>
-		<li id="menu-item-3032" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="no-space-full-width/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">No space full width</span></a></li>
-	</ul>
-</div></div></div></div></li></ul>
+<li id="menu-item-1141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown mega-gm-dropdown"><a href="about.php" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-paper-plane"></span><span class="gm-menu-item__txt">About Us</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
+
 </li>
 <li id="menu-item-1142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-moustache"></span><span class="gm-menu-item__txt">Services</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
 <ul class='gm-dropdown-menu gm-dropdown-menu--lvl-1' style=''>
-	<li id="menu-item-5867" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="shop-home/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">HYBRID SOLAR SYSTEMS</span></a></li>
-	<li id="menu-item-4686" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">COMMERCIAL SOLAR</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
+
+
+	<li id="menu-item-5867" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="shop-home/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Residential Solar</span></a> </li>
+    
 	
-	
-	</li>
-	
-	<li id="menu-item-5866" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="shop/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">RESIDENTIAL SOLAR</span></a></li>
-	
+	<li id="menu-item-1157" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="checkout/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Commercial Solar</span></a></li>
 </ul>
 </li>
-<li id="menu-item-1140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-layers"></span><span class="gm-menu-item__txt">Solar System</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
+<li id="menu-item-1140" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown">
+<a href="#" class=" gm-dropdown-toggle">
+<span class="gm-menu-item__icon groovy-69018-layers"></span>
+<span class="gm-menu-item__txt">Solar System</span>
+<span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span>
+</a>
 <ul class='gm-dropdown-menu gm-dropdown-menu--lvl-1' style=''>
-	<li id="menu-item-342" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="about-us/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">About us</span></a></li>
-	<li id="menu-item-493" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="about-us-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">About us 2</span></a></li>
-	<li id="menu-item-399" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="about-me/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">About me</span></a></li>
-	<li id="menu-item-513" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="about-me-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">About me 2</span></a></li>
-	<li id="menu-item-564" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="services/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Services</span></a></li>
-	<li id="menu-item-585" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="process/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Process</span></a></li>
-	<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="contact-us/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Contact us</span></a></li>
-	<li id="menu-item-535" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="contact-us-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Contact us 2</span></a></li>
-	<li id="menu-item-741" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="coming-soon/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Coming soon</span></a></li>
-	<li id="menu-item-1342" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="f-a-q/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">F.A.Q.</span></a></li>
+	
+    
+	<li id="menu-item-6416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">On Grid</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
+    
+	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
+		<li id="menu-item-6411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="category/masonry-sidebar-2/index.html" class="gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Inverters</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
+        
+        <ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
+        
+        
+		<li id="menu-item-6411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="aurora.php" class="gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Aurora Inverters</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
+		
+		<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
+		<li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="string-inverters.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">String-Inverters</span></a></li>
+		</ul>
+		
+		
+		</li>
+		<li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="growatt.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">Growatt Inverters</span></a></li>
+  <li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="micro.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">Micro Inverters</span></a></li> 
+  
+  <li id="menu-item-6072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="sma.php" class="gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">SMA Inverters</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
+  
+  
+  <ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
+		<li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="without-transformer.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">Without-Transformer</span></a></li>
+		</ul>
+  
+  </li>
+  
+  
+  <li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="solax.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">Solax Inverters</span></a></li> <li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="sungrow.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">Sungrow Inverters</span></a></li> 
+  <!-- Zever submenu  -->
+  <li id="menu-item-6072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="category/masonry-sidebar-3/index.html" class="gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Zever Solar Inverters</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
+  
+   <ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
+        
+        
+		<li id="menu-item-6411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item"><a href="evershine-t1.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">Evershine T1 Solar Inverters</span></a></li>
+		<li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="evershine-tlc.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">Evershine TLC Solar Inverters</span></a></li>
+		
+		 <li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="zeverlution-s.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">Zeverlution S Solar Inverters</span></a></li>
+		
+        <li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="zeverlution.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">Zeverlution Solar Inverters</span></a></li>
+        </ul>
+  
+  
+  
+  
+  </li>    
+        
+        
+		
+	</ul>
+        
+        
+ 
+        </li>
+		<li id="menu-item-6072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="category/masonry-sidebar-3/index.html" class="gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Solar Panels</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
+        
+        
+        
+       <ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
+        
+        
+		<li id="menu-item-6411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item"><a href="canadian-solar.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">Canadian Solar</span></a></li>
+		
+		<li id="menu-item-6411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item"><a href="gcl.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">GCL</span></a></li>
+		
+  <li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="lg-panel.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">LG Panel</span></a></li> <li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="q-cells.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">Q-Cells</span></a></li>
+  <li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="rec-solar-panel.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">Rec Solar Panels</span></a></li> 
+  
+  <li id="menu-item-6072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="category/masonry-sidebar-3/index.html" class="gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Sun Power</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
+  
+   <ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
+        
+        
+		<li id="menu-item-6411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item"><a href="e-series-solar-panels.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">E-Series Solar Panels</span></a></li>
+		<li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="x-series-solar-panels.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">X-Series Solar Panels</span></a></li>
+		
+		 <li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="performance-series-solar-panels.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">Performance Series Solar Panels</span></a></li>
+		
+       
+        </ul>
+  
+  
+  
+  
+  </li>     
+  <li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="talesun.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">Talesun</span></a></li>    
+        
+        
+		
+	</ul> 
+        
+        
+        
+        
+        </li>
+		
+	</ul>
+    </li>
+    
+    
+    <li id="menu-item-6416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Off Grid</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
+	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
+    
+    
+		 <li id="menu-item-6072" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="category/masonry-sidebar-3/index.html" class="gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Solax</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
+  
+   <ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
+        
+        
+		<li id="menu-item-6411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item"><a href="the-solaxbox.php" class="gm-menu-item__link"><span class="gm-menu-item__txt">The-Solaxbox</span></a></li>
+		
+		
+       
+        </ul>
+        
+        </li>
+        
+        
+		<li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="selectronics.php" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Selectronics</span></a></li>
+		<li id="menu-item-6543" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="alpha-ess.php" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Alpha ESS</span></a></li>
+	</ul>
+    
+    
+    
+    
 </ul>
 </li>
 <li id="menu-item-1139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown mega-gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-fire"></span><span class="gm-menu-item__txt">Career</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
-<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-1 gm-dropdown-menu--background' style='background-image: url(wp-content/uploads/2017/07/ba185a57c03f69bfbcd88d6e90abebde-optimized.jpg);background-repeat: no-repeat;background-position: center center;'>
-<li><div style="" class="gm-mega-menu-wrapper"><div class="gm-grid-container"><div class="gm-grid-row"><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Typography</div>
-	<ul class='' style=''>
-		<li id="menu-item-1848" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="headers-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Headings</span></a></li>
-		<li id="menu-item-1868" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="custom-fonts/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Custom fonts</span></a></li>
-		<li id="menu-item-1885" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="columns/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Columns</span></a></li>
-		<li id="menu-item-1909" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="fancy-text/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Fancy text</span></a></li>
-		<li id="menu-item-1913" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="buttons/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Buttons</span></a></li>
-		<li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="price-tables/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Price tables</span></a></li>
-		<li id="menu-item-1949" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="flip-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Flip boxes</span></a></li>
-		<li id="menu-item-1967" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="info-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Info box</span></a></li>
-		<li id="menu-item-2364" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="list-icon/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">List icon</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Common elements</div>
-	<ul class='' style=''>
-		<li id="menu-item-1941" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="counters/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Counters</span></a></li>
-		<li id="menu-item-739" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="timeline/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Timeline</span></a></li>
-		<li id="menu-item-2018" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="google-maps-trends/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Google maps &#038; trends</span></a></li>
-		<li id="menu-item-2032" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="highlight-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Highlight box</span></a></li>
-		<li id="menu-item-2054" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="info-banner/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Info banner</span></a></li>
-		<li id="menu-item-2089" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="info-circle/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Info circle</span></a></li>
-		<li id="menu-item-2119" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="modal-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Modal box</span></a></li>
-		<li id="menu-item-2091" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="interactive-banners/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Interactive banners</span></a></li>
-		<li id="menu-item-2180" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="creative-link/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Creative link</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Interactive elements</div>
-	<ul class='' style=''>
-		<li id="menu-item-2191" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="hotspot/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Hotspot</span></a></li>
-		<li id="menu-item-2207" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="tabs/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Tabs</span></a></li>
-		<li id="menu-item-2216" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="row-separator/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Row separator</span></a></li>
-		<li id="menu-item-2224" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="message-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Message box</span></a></li>
-		<li id="menu-item-3528" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="accordion/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Accordion</span></a></li>
-		<li id="menu-item-3529" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="charts/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Charts</span></a></li>
-		<li id="menu-item-3530" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="media-grid-masonry/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Media grid &#038; masonry</span></a></li>
-		<li id="menu-item-3531" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="countdown/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Countdown</span></a></li>
-		<li id="menu-item-3532" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="hover-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Hover box</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Interactive elements 2</div>
-	<ul class='' style=''>
-		<li id="menu-item-3534" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="parallax-background/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Parallax background</span></a></li>
-		<li id="menu-item-3535" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="classic-carousel/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Classic carousel</span></a></li>
-		<li id="menu-item-3536" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="video/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Video</span></a></li>
-		<li id="menu-item-3537" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="progress-bar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Progress bar</span></a></li>
-		<li id="menu-item-3538" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="headers/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Headers</span></a></li>
-		<li id="menu-item-3539" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="footers/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Footers</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Groovy menu</div>
-	<ul class='' style=''>
-		<li id="menu-item-3627" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="standard-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard menu</span></a></li>
-		<li id="menu-item-3626" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="standart-menu-with-toolbar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard menu with toolbar</span></a></li>
-		<li id="menu-item-3625" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="standard-menu-transparent/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard menu transparent</span></a></li>
-		<li id="menu-item-3624" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="centered-standard-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Centered standard menu</span></a></li>
-		<li id="menu-item-3657" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="minimalistic-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Minimalistic menu</span></a></li>
-		<li id="menu-item-3623" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="left-sidebar-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Left sidebar menu</span></a></li>
-		<li id="menu-item-3622" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="right-sidebar-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Right sidebar menu</span></a></li>
-		<li id="menu-item-3621" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="left-sidebar-icon-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Left sidebar icon menu</span></a></li>
-		<li id="menu-item-3743" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="right-sidebar-icon-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Right sidebar icon menu</span></a></li>
-		<li id="menu-item-3702" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="transparent-menu-with-border/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Transparent menu with border</span></a></li>
-		<li id="menu-item-3708" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="transparent-light-sticky-dark/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Transparent light – sticky dark</span></a></li>
-		<li id="menu-item-3715" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="standart-dark/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard dark</span></a></li>
-	</ul>
-</div></div></div></div></li>
-</ul>
+
+
 </li>
-<li id="menu-item-3540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-notebook"></span><span class="gm-menu-item__txt">Contact Us</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
-<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-1' style=''>
-	<li id="menu-item-6075" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/classic-blog/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Classic blog style</span></a></li>
-	<li id="menu-item-6747" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="classic-blog-style-without-sidebar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Classic blog without sidebar</span></a></li>
-	<li id="menu-item-6415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Masonry</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
-	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-6406" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry 2 columns</span></a></li>
-		<li id="menu-item-6407" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-3/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry 3 columns</span></a></li>
-		<li id="menu-item-6073" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-4/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry 4 columns</span></a></li>
-		<li id="menu-item-6777" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="masonry-5-columns/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry 5 columns</span></a></li>
-		<li id="menu-item-6550" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="masonry-fullwidth/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry Fullwidth</span></a></li>
-	</ul>
-</li>
-	<li id="menu-item-6416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Masonry with sidebar</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
-	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-6411" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-sidebar-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry sidebar 2 columns</span></a></li>
-		<li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-sidebar-3/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry sidebar 3 columns</span></a></li>
-		<li id="menu-item-6543" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="masonry-fullwidth-with-sidebar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry Fullwidth with Two Sidebars</span></a></li>
-	</ul>
-</li>
-	<li id="menu-item-6530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="http://xn--m2g/" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Cell Style</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
-	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-6529" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="cell-fullwidth/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Cell Style Fullwidth</span></a></li>
-		<li id="menu-item-6549" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="cell-style-with-sidebar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Cell style with sidebar</span></a></li>
-	</ul>
-</li>
-	<li id="menu-item-3545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Single post</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
-	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-6514" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/08/09/standart-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard post with sidebar</span></a></li>
-		<li id="menu-item-6513" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/05/25/post-visual-composer-modules/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Post with Visual composer modules</span></a></li>
-		<li id="menu-item-6077" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2017/03/06/post-with-a-link/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Post with a link</span></a></li>
-		<li id="menu-item-6087" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/06/23/post-with-quote/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Post with quote without image</span></a></li>
-		<li id="menu-item-6078" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2017/01/15/wordpress-audio-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">WordPress audio post</span></a></li>
-		<li id="menu-item-6079" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2017/01/15/wordpress-video-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">WordPress video post</span></a></li>
-		<li id="menu-item-6080" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/06/11/embeded-audio-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Embeded audio post</span></a></li>
-		<li id="menu-item-6081" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/05/17/embeded-video-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Embeded video post</span></a></li>
-	</ul>
-</li>
-</ul>
+<li id="menu-item-3540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown"><a href="contact.php" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-notebook"></span><span class="gm-menu-item__txt">Contact Us</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
+
+
 </li>
 </ul>						
 </nav>
-						<!--<div class="gm-actions">
-															<span class="gm-nav-inline-divider"></span>
-															
-															
-													
-													
-													
-													
-													
-													</div>-->
-					</div>
-					
-					<!-- End Navigation Bar-->
+          
+        </div>
+        
+        <!-- End Navigation Bar--> 
 					
 					
 					
@@ -602,7 +550,8 @@ span.wpcf7-list-item {
 </div>
 
 <p>
-<span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" aria-invalid="false"></textarea></span>
+<span class="wpcf7-form-control-wrap your-message" id="comments-group">
+<textarea name="comments" id="comments" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea form-control" aria-invalid="false"></textarea></span>
 </p>
 
 <p><button type="submit" class="btn btn-success">Submit <span class="fa fa-arrow-right"></span></button></p>

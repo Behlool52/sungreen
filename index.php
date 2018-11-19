@@ -1,16 +1,14 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-
-<!-- Mirrored from crane.grooni.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Oct 2018 18:05:22 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<!DOCTYPE html>
+<html lang="en-US">
+	
 <head>
-	<meta charset="UTF-8">
+		<meta charset="utf-8" /
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="profile" href="http://gmpg.org/xfn/11">
 	<link rel="pingback" href="xmlrpc.php">
 
-	<title>The Crane &#8211; The Crane, Customizable Multi-Purpose WordPress Theme with Mega Menu Tool</title>
+	<title>Sungreen Solar</title>
 		<script type="text/javascript">
 		var ajaxurl = 'wp-admin/admin-ajax.html';
 		</script>
@@ -19,28 +17,9 @@
 <link rel='dns-prefetch' href='http://s.w.org/' />
 <link rel="alternate" type="application/rss+xml" title="The Crane &raquo; Feed" href="feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="The Crane &raquo; Comments Feed" href="comments/feed/index.html" />
-<script>
-	
-// if (window.top.location != document.location) {
-//     window.top.location.href = document.location.href;
-// }
 
-</script>
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-120002447-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'UA-120002447-1');
-</script>
-
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/11\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/crane.grooni.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.9.8"}};
-			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55358,56760,9792,65039],[55358,56760,8203,9792,65039]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">
+<style type="text/css">
 img.wp-smiley,
 img.emoji {
 	display: inline !important;
@@ -54,6 +33,9 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
+
+<link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+ <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css">
 <link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles5560.css?ver=5.0.4' type='text/css' media='all' />
 <link rel='stylesheet' id='groovy-menu-style-css'  href='wp-content/plugins/groovy-menu/assets/style/frontend4e44.css?ver=1.3' type='text/css' media='all' />
 <link rel='stylesheet' id='groovy-menu-style-fonts-groovy-28328-css'  href='wp-content/uploads/groovy/fonts/groovy-283284e44.css?ver=1.3' type='text/css' media='all' />
@@ -69,7 +51,7 @@ img.emoji {
 <link rel='stylesheet' id='bsf-wp-Ingenicons-css'  href='wp-content/uploads/smile_fonts/wp-Ingenicons/wp-Ingenicons5010.css?ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='ultimate-style-min-css'  href='wp-content/plugins/Ultimate_VC_Addons/assets/min-css/ultimate.min957f.css?ver=3.16.25' type='text/css' media='all' />
 <link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.min7e15.css?ver=5.5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='js_composer_custom_css-css'  href='wp-content/uploads/js_composer/custom7e15.css?ver=5.5.4' type='text/css' media='all' />
+
 <link rel='stylesheet' id='crane-style-css'  href='assets/css/style79cd.css?ver=1.3.7.1' type='text/css' media='all' />
 <link rel='stylesheet' id='crane-style-main-css'  href='assets/css/style-main.min79cd.css?ver=1.3.7.1' type='text/css' media='all' />
 <style id='crane-style-main-inline-css' type='text/css'>
@@ -236,7 +218,7 @@ var slide_in = {"demo_dir":"http:\/\/crane.grooni.com\/wp-content\/plugins\/conv
 /* ]]> */
 </script>
 <script type='text/javascript' src='assets/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
-<script type='text/javascript' src='assets/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
+
 <script type='text/javascript' src='assets/js/jquery/ui/core.mine899.js?ver=1.11.4'></script>
 <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate.min957f.js?ver=3.16.25'></script>
 <link rel='https://api.w.org/' href='wp-json/index.html' />
@@ -368,32 +350,11 @@ span.wpcf7-list-item {
 					<div class="gm-main-menu-wrapper">
 						<nav id="gm-main-menu">
 							<ul id="menu-main-menu" class="gm-navbar-nav">
-                            <li id="menu-item-1138" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children gm-menu-item gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-home"></span><span class="gm-menu-item__txt">Home</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
+                            <li id="menu-item-1138" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children gm-menu-item gm-dropdown"><a href="/dev" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-home"></span><span class="gm-menu-item__txt">Home</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
 
-<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-1 gm-dropdown-menu--background' style='background-image: url(wp-content/uploads/2017/07/ba185a57c03f69bfbcd88d6e90abebde-optimized.jpg);background-repeat: no-repeat;background-position: center center;'>
-	<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-67 current_page_item has-attachment-thumbnail gm-menu-item"><a href="index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Original Home</span><img width="300" height="339" src="wp-content/uploads/2015/06/home1-598x677.jpg" class="attachment-menu-thumb size-menu-thumb" alt="" srcset="http://crane.grooni.com/wp-content/uploads/2015/06/home1-598x677.jpg 598w, http://crane.grooni.com/wp-content/uploads/2015/06/home1-265x300.jpg 265w, http://crane.grooni.com/wp-content/uploads/2015/06/home1.jpg 700w" sizes="(max-width: 300px) 100vw, 300px" /></a></li>
-	<li id="menu-item-363" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-3/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Portfolio Home</span></a></li>
-	<li id="menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Portfolio with Map Home</span></a></li>
-	<li id="menu-item-595" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-4/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Interior Home</span></a></li>
-	<li id="menu-item-620" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-5/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Light Home</span></a></li>
-	<li id="menu-item-652" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-6/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Hipster Home</span></a></li>
-	<li id="menu-item-672" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-7/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Intro Home</span></a></li>
-	<li id="menu-item-694" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-8/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Corporate Home</span></a></li>
-	<li id="menu-item-707" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-9/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">One page</span></a></li>
-	<li id="menu-item-849" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-10/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Shop Home</span></a></li>
-	<li id="menu-item-923" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="home-11/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Dark Home</span></a></li>
-	<li id="menu-item-9376" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">New demos</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
-<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-9379" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="barber/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Barber Home</span></a></li>
-		<li id="menu-item-9378" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="cargo/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Cargo Home</span></a></li>
-		<li id="menu-item-9377" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="education/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Education Home</span></a></li>
-		<li id="menu-item-9528" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="yoga/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Yoga Home</span></a></li>
-		<li id="menu-item-9529" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="wedding/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Wedding Home</span></a></li>
-	</ul>
+
 </li>
-</ul>
-</li>
-<li id="menu-item-1141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown mega-gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-paper-plane"></span><span class="gm-menu-item__txt">About Us</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
+<li id="menu-item-1141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown mega-gm-dropdown"><a href="about.php" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-paper-plane"></span><span class="gm-menu-item__txt">About Us</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
 
 </li>
 <li id="menu-item-1142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-moustache"></span><span class="gm-menu-item__txt">Services</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
@@ -492,120 +453,15 @@ span.wpcf7-list-item {
 </ul>
 </li>
 <li id="menu-item-1139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown mega-gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-fire"></span><span class="gm-menu-item__txt">Career</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
-<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-1 gm-dropdown-menu--background' style='background-image: url(wp-content/uploads/2017/07/ba185a57c03f69bfbcd88d6e90abebde-optimized.jpg);background-repeat: no-repeat;background-position: center center;'>
-<li><div style="" class="gm-mega-menu-wrapper"><div class="gm-grid-container"><div class="gm-grid-row"><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Typography</div>
-	<ul class='' style=''>
-		<li id="menu-item-1848" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="headers-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Headings</span></a></li>
-		<li id="menu-item-1868" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="custom-fonts/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Custom fonts</span></a></li>
-		<li id="menu-item-1885" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="columns/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Columns</span></a></li>
-		<li id="menu-item-1909" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="fancy-text/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Fancy text</span></a></li>
-		<li id="menu-item-1913" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="buttons/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Buttons</span></a></li>
-		<li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="price-tables/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Price tables</span></a></li>
-		<li id="menu-item-1949" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="flip-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Flip boxes</span></a></li>
-		<li id="menu-item-1967" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="info-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Info box</span></a></li>
-		<li id="menu-item-2364" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="list-icon/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">List icon</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Common elements</div>
-	<ul class='' style=''>
-		<li id="menu-item-1941" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="counters/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Counters</span></a></li>
-		<li id="menu-item-739" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="timeline/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Timeline</span></a></li>
-		<li id="menu-item-2018" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="google-maps-trends/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Google maps &#038; trends</span></a></li>
-		<li id="menu-item-2032" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="highlight-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Highlight box</span></a></li>
-		<li id="menu-item-2054" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="info-banner/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Info banner</span></a></li>
-		<li id="menu-item-2089" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="info-circle/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Info circle</span></a></li>
-		<li id="menu-item-2119" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="modal-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Modal box</span></a></li>
-		<li id="menu-item-2091" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="interactive-banners/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Interactive banners</span></a></li>
-		<li id="menu-item-2180" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="creative-link/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Creative link</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Interactive elements</div>
-	<ul class='' style=''>
-		<li id="menu-item-2191" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="hotspot/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Hotspot</span></a></li>
-		<li id="menu-item-2207" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="tabs/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Tabs</span></a></li>
-		<li id="menu-item-2216" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="row-separator/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Row separator</span></a></li>
-		<li id="menu-item-2224" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="message-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Message box</span></a></li>
-		<li id="menu-item-3528" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="accordion/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Accordion</span></a></li>
-		<li id="menu-item-3529" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="charts/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Charts</span></a></li>
-		<li id="menu-item-3530" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="media-grid-masonry/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Media grid &#038; masonry</span></a></li>
-		<li id="menu-item-3531" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="countdown/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Countdown</span></a></li>
-		<li id="menu-item-3532" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="hover-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Hover box</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Interactive elements 2</div>
-	<ul class='' style=''>
-		<li id="menu-item-3534" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="parallax-background/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Parallax background</span></a></li>
-		<li id="menu-item-3535" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="classic-carousel/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Classic carousel</span></a></li>
-		<li id="menu-item-3536" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="video/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Video</span></a></li>
-		<li id="menu-item-3537" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="progress-bar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Progress bar</span></a></li>
-		<li id="menu-item-3538" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="headers/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Headers</span></a></li>
-		<li id="menu-item-3539" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="footers/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Footers</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Groovy menu</div>
-	<ul class='' style=''>
-		<li id="menu-item-3627" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="standard-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard menu</span></a></li>
-		<li id="menu-item-3626" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="standart-menu-with-toolbar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard menu with toolbar</span></a></li>
-		<li id="menu-item-3625" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="standard-menu-transparent/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard menu transparent</span></a></li>
-		<li id="menu-item-3624" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="centered-standard-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Centered standard menu</span></a></li>
-		<li id="menu-item-3657" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="minimalistic-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Minimalistic menu</span></a></li>
-		<li id="menu-item-3623" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="left-sidebar-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Left sidebar menu</span></a></li>
-		<li id="menu-item-3622" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="right-sidebar-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Right sidebar menu</span></a></li>
-		<li id="menu-item-3621" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="left-sidebar-icon-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Left sidebar icon menu</span></a></li>
-		<li id="menu-item-3743" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="right-sidebar-icon-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Right sidebar icon menu</span></a></li>
-		<li id="menu-item-3702" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="transparent-menu-with-border/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Transparent menu with border</span></a></li>
-		<li id="menu-item-3708" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="transparent-light-sticky-dark/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Transparent light – sticky dark</span></a></li>
-		<li id="menu-item-3715" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="standart-dark/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard dark</span></a></li>
-	</ul>
-</div></div></div></div></li></ul>
+
+
 </li>
-<li id="menu-item-3540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-notebook"></span><span class="gm-menu-item__txt">Contact Us</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
-<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-1' style=''>
-	<li id="menu-item-6075" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/classic-blog/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Classic blog style</span></a></li>
-	<li id="menu-item-6747" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="classic-blog-style-without-sidebar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Classic blog without sidebar</span></a></li>
-	<li id="menu-item-6415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Masonry</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
-	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-6406" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry 2 columns</span></a></li>
-		<li id="menu-item-6407" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-3/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry 3 columns</span></a></li>
-		<li id="menu-item-6073" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-4/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry 4 columns</span></a></li>
-		<li id="menu-item-6777" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="masonry-5-columns/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry 5 columns</span></a></li>
-		<li id="menu-item-6550" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="masonry-fullwidth/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry Fullwidth</span></a></li>
-	</ul>
+<li id="menu-item-3540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown"><a href="contact.php" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-notebook"></span><span class="gm-menu-item__txt">Contact Us</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
+
 </li>
-	<li id="menu-item-6416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Masonry with sidebar</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
-	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-6411" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-sidebar-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry sidebar 2 columns</span></a></li>
-		<li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-sidebar-3/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry sidebar 3 columns</span></a></li>
-		<li id="menu-item-6543" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="masonry-fullwidth-with-sidebar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry Fullwidth with Two Sidebars</span></a></li>
-	</ul>
-</li>
-	<li id="menu-item-6530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="http://xn--m2g/" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Cell Style</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
-	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-6529" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="cell-fullwidth/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Cell Style Fullwidth</span></a></li>
-		<li id="menu-item-6549" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="cell-style-with-sidebar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Cell style with sidebar</span></a></li>
-	</ul>
-</li>
-	<li id="menu-item-3545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Single post</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
-	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-6514" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/08/09/standart-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard post with sidebar</span></a></li>
-		<li id="menu-item-6513" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/05/25/post-visual-composer-modules/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Post with Visual composer modules</span></a></li>
-		<li id="menu-item-6077" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2017/03/06/post-with-a-link/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Post with a link</span></a></li>
-		<li id="menu-item-6087" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/06/23/post-with-quote/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Post with quote without image</span></a></li>
-		<li id="menu-item-6078" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2017/01/15/wordpress-audio-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">WordPress audio post</span></a></li>
-		<li id="menu-item-6079" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2017/01/15/wordpress-video-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">WordPress video post</span></a></li>
-		<li id="menu-item-6080" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/06/11/embeded-audio-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Embeded audio post</span></a></li>
-		<li id="menu-item-6081" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/05/17/embeded-video-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Embeded video post</span></a></li>
-	</ul>
-</li>
-</ul>
-</li>
-</ul>						</nav>
-						<!--<div class="gm-actions">
-															<span class="gm-nav-inline-divider"></span>
-															
-															
-													
-													
-													
-													
-													
-													</div>-->
+</ul>					
+</nav>
+						
 					</div>
 				</div>
 			</div>
@@ -1034,40 +890,12 @@ span.wpcf7-list-item {
 	</li>
 	
 	</ul>
-<script>var htmlDiv = document.getElementById("rs-plugin-settings-inline-css"); var htmlDivCss="";
-						if(htmlDiv) {
-							htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-						}else{
-							var htmlDiv = document.createElement("div");
-							htmlDiv.innerHTML = "<style>" + htmlDivCss + "</style>";
-							document.getElementsByTagName("head")[0].appendChild(htmlDiv.childNodes[0]);
-						}
-					</script>
+
 <div class="tp-bannertimer tp-bottom" style="height: 5px; background: rgba(0,0,0,0.15);"></div>	</div>
-<script>
-					var htmlDivCss = unescape(".rev_slider%20.slotholder%3Aafter%20%7B%0A%20%20%20%20width%3A%20100%25%3B%0A%20%20%20%20height%3A%20100%25%3B%0A%20%20%20%20content%3A%20%22%22%3B%0A%20%20%20%20position%3A%20absolute%3B%0A%20%20%20%20left%3A%200%3B%0A%20%20%20%20top%3A%200%3B%0A%20%20%20%20pointer-events%3A%20none%3B%0A%20%0A%20%20%20%20%2F%2A%20black%20overlay%20with%2050%25%20transparency%20%2A%2F%0A%20%20%20%20background%3A%20rgba%280%2C%200%2C%200%2C%200.25%29%3B%0A%7D");
-					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
-					if(htmlDiv) {
-						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-					}
-					else{
-						var htmlDiv = document.createElement('div');
-						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
-						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
-					}
-				  </script><script>
-					var htmlDivCss = unescape(".hermes.tparrows%20%7B%0A%09cursor%3Apointer%3B%0A%09background%3Argba%280%2C0%2C0%2C0.5%29%3B%0A%09width%3A30px%3B%0A%09height%3A110px%3B%0A%09position%3Aabsolute%3B%0A%09display%3Ablock%3B%0A%09z-index%3A100%3B%0A%7D%0A%0A.hermes.tparrows%3Abefore%20%7B%0A%09font-family%3A%20%22revicons%22%3B%0A%09font-size%3A15px%3B%0A%09color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%09display%3Ablock%3B%0A%09line-height%3A%20110px%3B%0A%09text-align%3A%20center%3B%0A%20%20%20%20transform%3Atranslatex%280px%29%3B%0A%20%20%20%20-webkit-transform%3Atranslatex%280px%29%3B%0A%20%20%20%20transition%3Aall%200.3s%3B%0A%20%20%20%20-webkit-transition%3Aall%200.3s%3B%0A%7D%0A.hermes.tparrows.tp-leftarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce824%22%3B%0A%7D%0A.hermes.tparrows.tp-rightarrow%3Abefore%20%7B%0A%09content%3A%20%22%5Ce825%22%3B%0A%7D%0A.hermes.tparrows.tp-leftarrow%3Ahover%3Abefore%20%7B%0A%20%20%20%20transform%3Atranslatex%28-20px%29%3B%0A%20%20%20%20-webkit-transform%3Atranslatex%28-20px%29%3B%0A%20%20%20%20%20opacity%3A0%3B%0A%7D%0A.hermes.tparrows.tp-rightarrow%3Ahover%3Abefore%20%7B%0A%20%20%20%20transform%3Atranslatex%2820px%29%3B%0A%20%20%20%20-webkit-transform%3Atranslatex%2820px%29%3B%0A%20%20%20%20%20opacity%3A0%3B%0A%7D%0A%0A.hermes%20.tp-arr-allwrapper%20%7B%0A%20%20%20%20overflow%3Ahidden%3B%0A%20%20%20%20position%3Aabsolute%3B%0A%09width%3A180px%3B%0A%20%20%20%20height%3A140px%3B%0A%20%20%20%20top%3A0px%3B%0A%20%20%20%20left%3A0px%3B%0A%20%20%20%20visibility%3Ahidden%3B%0A%20%20%20%20%20%20-webkit-transition%3A%20-webkit-transform%200.3s%200.3s%3B%0A%20%20transition%3A%20transform%200.3s%200.3s%3B%0A%20%20-webkit-perspective%3A%201000px%3B%0A%20%20perspective%3A%201000px%3B%0A%20%20%20%20%7D%0A.hermes.tp-rightarrow%20.tp-arr-allwrapper%20%7B%0A%20%20%20right%3A0px%3Bleft%3Aauto%3B%0A%20%20%20%20%20%20%7D%0A.hermes.tparrows%3Ahover%20.tp-arr-allwrapper%20%7B%0A%20%20%20visibility%3Avisible%3B%0A%20%20%20%20%20%20%20%20%20%20%7D%0A.hermes%20.tp-arr-imgholder%20%7B%0A%20%20width%3A180px%3Bposition%3Aabsolute%3B%0A%20%20left%3A0px%3Btop%3A0px%3Bheight%3A110px%3B%0A%20%20transform%3Atranslatex%28-180px%29%3B%0A%20%20-webkit-transform%3Atranslatex%28-180px%29%3B%0A%20%20transition%3Aall%200.3s%3B%0A%20%20transition-delay%3A0.3s%3B%0A%7D%0A.hermes.tp-rightarrow%20.tp-arr-imgholder%7B%0A%20%20%20%20transform%3Atranslatex%28180px%29%3B%0A%20%20-webkit-transform%3Atranslatex%28180px%29%3B%0A%20%20%20%20%20%20%7D%0A%20%20%0A.hermes.tparrows%3Ahover%20.tp-arr-imgholder%20%7B%0A%20%20%20transform%3Atranslatex%280px%29%3B%0A%20%20%20-webkit-transform%3Atranslatex%280px%29%3B%20%20%20%20%20%20%20%20%20%20%20%20%0A%7D%0A.hermes%20.tp-arr-titleholder%20%7B%0A%20%20top%3A110px%3B%0A%20%20width%3A180px%3B%0A%20%20text-align%3Aleft%3B%20%0A%20%20display%3Ablock%3B%0A%20%20padding%3A0px%2010px%3B%0A%20%20line-height%3A30px%3B%20background%3A%23000%3B%0A%20%20background%3Argba%280%2C0%2C0%2C0.75%29%3B%0A%20%20color%3Argb%28255%2C%20255%2C%20255%29%3B%0A%20%20font-weight%3A600%3B%20position%3Aabsolute%3B%0A%20%20font-size%3A12px%3B%0A%20%20white-space%3Anowrap%3B%0A%20%20letter-spacing%3A1px%3B%0A%20%20-webkit-transition%3A%20all%200.3s%3B%0A%20%20transition%3A%20all%200.3s%3B%0A%20%20-webkit-transform%3A%20rotatex%28-90deg%29%3B%0A%20%20transform%3A%20rotatex%28-90deg%29%3B%0A%20%20-webkit-transform-origin%3A%2050%25%200%3B%0A%20%20transform-origin%3A%2050%25%200%3B%0A%20%20box-sizing%3Aborder-box%3B%0A%0A%7D%0A.hermes.tparrows%3Ahover%20.tp-arr-titleholder%20%7B%0A%20%20%20%20-webkit-transition-delay%3A%200.6s%3B%0A%20%20transition-delay%3A%200.6s%3B%0A%20%20-webkit-transform%3A%20rotatex%280deg%29%3B%0A%20%20transform%3A%20rotatex%280deg%29%3B%0A%7D%0A%0A");
-					var htmlDiv = document.getElementById('rs-plugin-settings-inline-css');
-					if(htmlDiv) {
-						htmlDiv.innerHTML = htmlDiv.innerHTML + htmlDivCss;
-					}
-					else{
-						var htmlDiv = document.createElement('div');
-						htmlDiv.innerHTML = '<style>' + htmlDivCss + '</style>';
-						document.getElementsByTagName('head')[0].appendChild(htmlDiv.childNodes[0]);
-					}
-				  </script>
-				</div><!-- END REVOLUTION SLIDER --></div></div></div></div></div></div></div>
+				  
+				
+				</div>
+				<!-- END REVOLUTION SLIDER --></div></div></div></div></div></div></div>
 				
 				<div class="crane-section">
 				<div class="crane-container"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="ult-spacer spacer-5bcb646fc5a36" data-id="5bcb646fc5a36" data-height="95" data-height-mobile="50" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="50" style="clear:both;display:block;"></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="ult-animation  ult-animate-viewport  ult-no-mobile " data-animate="fadeInRight" data-animation-delay="0" data-animation-duration="0.5" data-animation-iteration="1" style="opacity:1;-webkit-transition-delay: 0s; -moz-transition-delay: 0s; transition-delay: 0s;" data-opacity_start_effect=""><div id="modal-trg-txt-wrap-1263" class="ult-modal-input-wrapper ult-adjust-bottom-margin     animated fadeInRight" data-keypress-control="keypress-control-enable" data-overlay-control="overlay-control-enable" style="opacity:1;-webkit-animation-delay:0s;-webkit-animation-duration:0.5s;-webkit-animation-iteration-count:1; -moz-animation-delay:0s;-moz-animation-duration:0.5s;-moz-animation-iteration-count:1; animation-delay:0s;animation-duration:0.5s;animation-iteration-count:1;test"><img src="wp-content/img1.jpeg" alt="" data-class-id="content-5bcb646fc5d583-53734779" class="ult-modal-img overlay-show-cornershape ult-align-center ult-modal-image-"></div>
@@ -1232,6 +1060,125 @@ Sungreen is the solar energy choice of more homeowners and businesses around the
 					
 					</div></div></div></div></div></div></div></div></div>
 			
+			
+			<style>
+/*-------------------------------*/
+/*    Carousel Fade Transition   */
+/*-------------------------------*/
+
+.quote {
+    color: rgba(0,0,0,.1);
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#fade-quote-carousel.carousel {
+  padding-bottom: 60px;
+}
+#fade-quote-carousel.carousel .carousel-inner .item {
+  opacity: 0;
+  -webkit-transition-property: opacity;
+      -ms-transition-property: opacity;
+          transition-property: opacity;
+}
+#fade-quote-carousel.carousel .carousel-inner .active {
+  opacity: 1;
+  -webkit-transition-property: opacity;
+      -ms-transition-property: opacity;
+          transition-property: opacity;
+}
+#fade-quote-carousel.carousel .carousel-indicators {
+  bottom: 10px;
+}
+#fade-quote-carousel.carousel .carousel-indicators > li {
+  background-color: #93cb52;
+  border: none;
+}
+#fade-quote-carousel blockquote {
+    text-align: center;
+    border: none;
+	color:#fff;
+}
+#fade-quote-carousel .profile-circle {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 100px;
+}
+
+</style>
+<div class="crane-section">
+
+
+
+<div class="crane-background" style="background-image: url('wp-content/large.jpeg');background-position: center center;"></div>
+<div class="crane-background-overlay" style="background-color: rgba(0,0,0,0.4)"></div>
+
+
+
+
+<div class="ult-spacer spacer-5bcb696b0dbb4" data-id="5bcb696b0dbb4" data-height="70" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div>
+
+<section id="carousel">    				
+	<div class="container">
+		<div class="row">
+			<div class="col-md-8 col-md-offset-2">
+                
+				<div class="carousel slide" id="fade-quote-carousel" data-ride="carousel" data-interval="3000">
+				  <!-- Carousel indicators -->
+                  <ol class="carousel-indicators">
+				    <li data-target="#fade-quote-carousel" data-slide-to="0"class="active"></li>
+				    <li data-target="#fade-quote-carousel" data-slide-to="1"></li>
+				    <li data-target="#fade-quote-carousel" data-slide-to="2"></li>
+                    <li data-target="#fade-quote-carousel" data-slide-to="3"></li>
+                    
+				  </ol>
+				  <!-- Carousel items -->
+				  <div class="carousel-inner">
+				    <div class="item">
+                        <div class="profile-circle" style="background-color: rgba(0,0,0,.2);">
+						<img src="images/1.jpg" style="border-radius:50%; border:2px solid #fff;">
+						</div>
+				    	<blockquote>
+				    		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus.</p>
+				    	</blockquote>	
+				    </div>
+				    <div class="item">
+                        <div class="profile-circle" style="background-color: rgba(77,5,51,.2);">
+						<img src="images/1.jpg" style="border-radius:50%; border:2px solid #fff;">
+						</div>
+				    	<blockquote>
+				    		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus.</p>
+				    	</blockquote>
+				    </div>
+				    <div class="active item">
+                        <div class="profile-circle" style="background-color: rgba(145,169,216,.2);">
+						<img src="images/1.jpg" style="border-radius:50%; border:2px solid #fff;">
+						</div>
+				    	<blockquote>
+				    		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus.</p>
+				    	</blockquote>
+				    </div>
+                    <div class="item">
+                        <div class="profile-circle" style="background-color: rgba(77,5,51,.2);">
+						<img src="images/1.jpg" style="border-radius:50%; border:2px solid #fff;">
+						</div>
+    			    	<blockquote>
+				    		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, veritatis nulla eum laudantium totam tempore optio doloremque laboriosam quas, quos eaque molestias odio aut eius animi. Impedit temporibus nisi accusamus.</p>
+				    	</blockquote>
+				    </div>
+                    
+				  </div>
+				</div>
+			</div>							
+		</div>
+	</div>
+</section>
+
+</div>
+			
+			
+			
 			<div class="crane-section">
 			<div class="crane-background" style="background-color: #292929;"></div>
 			<div class="crane-container">
@@ -1278,6 +1225,8 @@ Sungreen is the solar energy choice of more homeowners and businesses around the
 		</figure>
 	</div>
 </div><div class="ult-spacer spacer-5bcb698a71e3e" data-id="5bcb698a71e3e" data-height="88" data-height-mobile="40" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="40" style="clear:both;display:block;"></div></div></div></div></div></div></div>
+
+
 </div>
 
 

@@ -1,4 +1,3 @@
-
 <!-- Mirrored from crane.grooni.com/f-a-q/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Oct 2018 18:52:29 GMT -->
 <!-- Added by HTTrack -->
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
@@ -350,7 +349,7 @@ var slide_in = {"demo_dir":"http:\/\/crane.grooni.com\/wp-content\/plugins\/conv
 /* ]]> */
 </script>
 <script type='text/javascript' src='assets/js/jquery/jqueryb8ff.js?ver=1.12.4'></script>
-<script type='text/javascript' src='assets/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script>
+
 <script type='text/javascript' src='assets/js/jquery/ui/core.mine899.js?ver=1.11.4'></script>
 <script type='text/javascript' src='wp-content/plugins/Ultimate_VC_Addons/assets/min-js/ultimate.min957f.js?ver=3.16.25'></script>
 <link rel='https://api.w.org/' href='wp-json/index.html' />
@@ -482,7 +481,7 @@ span.wpcf7-list-item {
 
 
 </li>
-<li id="menu-item-1141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown mega-gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-paper-plane"></span><span class="gm-menu-item__txt">About Us</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
+<li id="menu-item-1141" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown mega-gm-dropdown"><a href="about.php" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-paper-plane"></span><span class="gm-menu-item__txt">About Us</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
 
 </li>
 <li id="menu-item-1142" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-moustache"></span><span class="gm-menu-item__txt">Services</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
@@ -634,120 +633,16 @@ span.wpcf7-list-item {
 </ul>
 </li>
 <li id="menu-item-1139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown mega-gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-fire"></span><span class="gm-menu-item__txt">Career</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
-<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-1 gm-dropdown-menu--background' style='background-image: url(wp-content/uploads/2017/07/ba185a57c03f69bfbcd88d6e90abebde-optimized.jpg);background-repeat: no-repeat;background-position: center center;'>
-<li><div style="" class="gm-mega-menu-wrapper"><div class="gm-grid-container"><div class="gm-grid-row"><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Typography</div>
-	<ul class='' style=''>
-		<li id="menu-item-1848" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="headers-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Headings</span></a></li>
-		<li id="menu-item-1868" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="custom-fonts/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Custom fonts</span></a></li>
-		<li id="menu-item-1885" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="columns/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Columns</span></a></li>
-		<li id="menu-item-1909" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="fancy-text/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Fancy text</span></a></li>
-		<li id="menu-item-1913" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="buttons/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Buttons</span></a></li>
-		<li id="menu-item-431" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="price-tables/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Price tables</span></a></li>
-		<li id="menu-item-1949" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="flip-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Flip boxes</span></a></li>
-		<li id="menu-item-1967" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="info-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Info box</span></a></li>
-		<li id="menu-item-2364" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="list-icon/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">List icon</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Common elements</div>
-	<ul class='' style=''>
-		<li id="menu-item-1941" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="counters/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Counters</span></a></li>
-		<li id="menu-item-739" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="timeline/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Timeline</span></a></li>
-		<li id="menu-item-2018" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="google-maps-trends/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Google maps &#038; trends</span></a></li>
-		<li id="menu-item-2032" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="highlight-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Highlight box</span></a></li>
-		<li id="menu-item-2054" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="info-banner/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Info banner</span></a></li>
-		<li id="menu-item-2089" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="info-circle/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Info circle</span></a></li>
-		<li id="menu-item-2119" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="modal-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Modal box</span></a></li>
-		<li id="menu-item-2091" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="interactive-banners/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Interactive banners</span></a></li>
-		<li id="menu-item-2180" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="creative-link/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Creative link</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Interactive elements</div>
-	<ul class='' style=''>
-		<li id="menu-item-2191" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="hotspot/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Hotspot</span></a></li>
-		<li id="menu-item-2207" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="tabs/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Tabs</span></a></li>
-		<li id="menu-item-2216" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="row-separator/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Row separator</span></a></li>
-		<li id="menu-item-2224" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="message-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Message box</span></a></li>
-		<li id="menu-item-3528" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="accordion/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Accordion</span></a></li>
-		<li id="menu-item-3529" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="charts/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Charts</span></a></li>
-		<li id="menu-item-3530" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="media-grid-masonry/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Media grid &#038; masonry</span></a></li>
-		<li id="menu-item-3531" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="countdown/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Countdown</span></a></li>
-		<li id="menu-item-3532" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="hover-box/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Hover box</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Interactive elements 2</div>
-	<ul class='' style=''>
-		<li id="menu-item-3534" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="parallax-background/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Parallax background</span></a></li>
-		<li id="menu-item-3535" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="classic-carousel/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Classic carousel</span></a></li>
-		<li id="menu-item-3536" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="video/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Video</span></a></li>
-		<li id="menu-item-3537" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="progress-bar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Progress bar</span></a></li>
-		<li id="menu-item-3538" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="headers/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Headers</span></a></li>
-		<li id="menu-item-3539" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="footers/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Footers</span></a></li>
-	</ul>
-</div><div class="gm-mega-menu__item mobile-grid-100 grid-20"><div class="gm-mega-menu__item__title">Groovy menu</div>
-	<ul class='' style=''>
-		<li id="menu-item-3627" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="standard-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard menu</span></a></li>
-		<li id="menu-item-3626" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="standart-menu-with-toolbar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard menu with toolbar</span></a></li>
-		<li id="menu-item-3625" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="standard-menu-transparent/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard menu transparent</span></a></li>
-		<li id="menu-item-3624" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="centered-standard-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Centered standard menu</span></a></li>
-		<li id="menu-item-3657" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="minimalistic-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Minimalistic menu</span></a></li>
-		<li id="menu-item-3623" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="left-sidebar-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Left sidebar menu</span></a></li>
-		<li id="menu-item-3622" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="right-sidebar-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Right sidebar menu</span></a></li>
-		<li id="menu-item-3621" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="left-sidebar-icon-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Left sidebar icon menu</span></a></li>
-		<li id="menu-item-3743" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="right-sidebar-icon-menu/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Right sidebar icon menu</span></a></li>
-		<li id="menu-item-3702" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="transparent-menu-with-border/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Transparent menu with border</span></a></li>
-		<li id="menu-item-3708" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="transparent-light-sticky-dark/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Transparent light – sticky dark</span></a></li>
-		<li id="menu-item-3715" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="standart-dark/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard dark</span></a></li>
-	</ul>
-</div></div></div></div></li></ul>
+
+
 </li>
-<li id="menu-item-3540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown"><a href="#" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-notebook"></span><span class="gm-menu-item__txt">Contact Us</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
-<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-1' style=''>
-	<li id="menu-item-6075" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/classic-blog/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Classic blog style</span></a></li>
-	<li id="menu-item-6747" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="classic-blog-style-without-sidebar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Classic blog without sidebar</span></a></li>
-	<li id="menu-item-6415" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Masonry</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
-	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-6406" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry 2 columns</span></a></li>
-		<li id="menu-item-6407" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-3/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry 3 columns</span></a></li>
-		<li id="menu-item-6073" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-4/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry 4 columns</span></a></li>
-		<li id="menu-item-6777" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="masonry-5-columns/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry 5 columns</span></a></li>
-		<li id="menu-item-6550" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="masonry-fullwidth/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry Fullwidth</span></a></li>
-	</ul>
+<li id="menu-item-3540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown"><a href="contact.php" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-notebook"></span><span class="gm-menu-item__txt">Contact Us</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
+
+
 </li>
-	<li id="menu-item-6416" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Masonry with sidebar</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
-	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-6411" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-sidebar-2/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry sidebar 2 columns</span></a></li>
-		<li id="menu-item-6072" class="menu-item menu-item-type-taxonomy menu-item-object-category gm-menu-item"><a href="category/masonry-sidebar-3/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry sidebar 3 columns</span></a></li>
-		<li id="menu-item-6543" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="masonry-fullwidth-with-sidebar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Masonry Fullwidth with Two Sidebars</span></a></li>
-	</ul>
-</li>
-	<li id="menu-item-6530" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="http://xn--m2g/" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Cell Style</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
-	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-6529" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="cell-fullwidth/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Cell Style Fullwidth</span></a></li>
-		<li id="menu-item-6549" class="menu-item menu-item-type-post_type menu-item-object-page gm-menu-item"><a href="cell-style-with-sidebar/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Cell style with sidebar</span></a></li>
-	</ul>
-</li>
-	<li id="menu-item-3545" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown gm-dropdown-submenu"><a href="#" class=" gm-dropdown-toggle gm-menu-item__link"><span class="gm-menu-item__txt">Single post</span><span class="gm-caret"><i class="fa fa-fw fa-angle-right"></i></span></a>
-	<ul class='gm-dropdown-menu gm-dropdown-menu--lvl-2' style=''>
-		<li id="menu-item-6514" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/08/09/standart-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Standard post with sidebar</span></a></li>
-		<li id="menu-item-6513" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/05/25/post-visual-composer-modules/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Post with Visual composer modules</span></a></li>
-		<li id="menu-item-6077" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2017/03/06/post-with-a-link/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Post with a link</span></a></li>
-		<li id="menu-item-6087" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/06/23/post-with-quote/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Post with quote without image</span></a></li>
-		<li id="menu-item-6078" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2017/01/15/wordpress-audio-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">WordPress audio post</span></a></li>
-		<li id="menu-item-6079" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2017/01/15/wordpress-video-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">WordPress video post</span></a></li>
-		<li id="menu-item-6080" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/06/11/embeded-audio-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Embeded audio post</span></a></li>
-		<li id="menu-item-6081" class="menu-item menu-item-type-post_type menu-item-object-post gm-menu-item"><a href="2015/05/17/embeded-video-post/index.html" class=" gm-menu-item__link"><span class="gm-menu-item__txt">Embeded video post</span></a></li>
-	</ul>
-</li>
-</ul>
-</li>
-</ul>						</nav>
-          <!--<div class="gm-actions">
-															<span class="gm-nav-inline-divider"></span>
-															
-															
-													
-													
-													
-													
-													
-													</div>--> 
+</ul>						
+</nav>
+          
         </div>
         
         <!-- End Navigation Bar--> 

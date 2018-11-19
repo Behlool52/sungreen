@@ -7,8 +7,8 @@ $data 			= array(); 		// array to pass back data
 		$errors['name'] = 'Name is required.';
 	if (empty($_POST['email']))
 		$errors['email'] = 'Email is required.';
-	if (empty($_POST['superheroAlias']))
-		$errors['superheroAlias'] = 'Superhero alias is required.';
+	if (empty($_POST['comments']))
+		$errors['comments'] = 'Comments is required.';
 // return a response ===========================================================
 	// if there are any errors in our errors array, return a success boolean of false
 	if ( ! empty($errors)) {
@@ -20,8 +20,30 @@ $data 			= array(); 		// array to pass back data
 		// DO ALL YOUR FORM PROCESSING HERE
 		// THIS CAN BE WHATEVER YOU WANT TO DO (LOGIN, SAVE, UPDATE, WHATEVER)
 		// show a message of success and provide a true success variable
+		
+		
+		
+		
+		
+		
+		
+		
 		$data['success'] = true;
 		$data['message'] = 'Success!';
+		
+		// ==================== email =============================
+		
+		$to = "behlool@gmail.com";
+$subject = "My subject";
+$txt = "Hello world!";
+$headers = "From: webmaster@example.com" . "\r\n" .
+"CC: somebodyelse@example.com";
+
+mail($to,$subject,$txt,$headers);
+		
+		//=================== email end =========================
+		
+		
 	}
 	// return all our data to an AJAX call
 	echo json_encode($data);
