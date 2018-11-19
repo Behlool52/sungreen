@@ -16,13 +16,13 @@ Sungreen is a Queensland based company specialize in commercial, residential and
 		<div class="wpb_wrapper">
 			
 			<div id="categories-12" class="widget widget_categories"><h4 class="widget-title">OUR SERVICES</h4>		<ul>
-	<li class="cat-item cat-item-29"><a href="category/classic-blog/index.html">Hybrid Solar System</a>
+	<li class="cat-item cat-item-29"><a href="hybrid-solar-system.php">Hybrid Solar System</a>
 </li>
-	<li class="cat-item cat-item-115"><a href="category/masonry-2/index.html">Commercial Solar</a>
+	<li class="cat-item cat-item-115"><a href="commercial-solar.php">Commercial Solar</a>
 </li>
-	<li class="cat-item cat-item-16"><a href="category/masonry-3/index.html">Residential Solar</a>
+	<li class="cat-item cat-item-16"><a href="residential-solar.php">Residential Solar</a>
 </li>
-	<li class="cat-item cat-item-17"><a href="category/masonry-4/index.html">Solar System</a>
+	<li class="cat-item cat-item-17"><a href="solar-system.php">Solar System</a>
 </li>
 	
 		</ul>
@@ -36,13 +36,13 @@ Sungreen is a Queensland based company specialize in commercial, residential and
 		<div class="wpb_wrapper">
 			
 			<div id="categories-12" class="widget widget_categories"><h4 class="widget-title">USEFUL LINKS</h4>		<ul>
-	<li class="cat-item cat-item-29"><a href="category/classic-blog/index.html">Home</a>
+	<li class="cat-item cat-item-29"><a href="/dev">Home</a>
 </li>
-	<li class="cat-item cat-item-115"><a href="category/masonry-2/index.html">About Us</a>
+	<li class="cat-item cat-item-115"><a href="about.php">About Us</a>
 </li>
-	<li class="cat-item cat-item-16"><a href="category/masonry-3/index.html">Career</a>
+	<li class="cat-item cat-item-16"><a href="career.php">Career</a>
 </li>
-	<li class="cat-item cat-item-17"><a href="category/masonry-4/index.html">Contact Us</a>
+	<li class="cat-item cat-item-17"><a href="contact.php">Contact Us</a>
 </li>
 	
 		</ul>

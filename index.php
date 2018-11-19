@@ -243,6 +243,17 @@ var slide_in = {"demo_dir":"http:\/\/crane.grooni.com\/wp-content\/plugins\/conv
 						}catch(d){console.log("Failure at Presize of Slider:"+d)}						
 					};</script>
 		<style type="text/css" id="wp-custom-css">
+		
+		#rev_slider_59_1_wrapper{		
+		height:500px!important	
+		}
+		
+		.tp-parallax-wrap{
+		top:150px!important;	
+		}
+		
+		
+		
 			.crane-buy-btn {
 	display: flex;
 	align-items: center;
@@ -459,8 +470,15 @@ span.wpcf7-list-item {
 <li id="menu-item-3540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown"><a href="contact.php" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-notebook"></span><span class="gm-menu-item__txt">Contact Us</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
 
 </li>
-</ul>					
+
+<li id="menu-item-3540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown"><a href="/dev/admin" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-notebook"></span><span class="gm-menu-item__txt">Admin</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
+
+
+</li>
+</ul>	
+		
 </nav>
+	
 						
 					</div>
 				</div>
@@ -484,7 +502,7 @@ span.wpcf7-list-item {
 <ul>	<!-- SLIDE  -->
 	<li data-index="rs-195" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://crane.grooni.com/wp-content/uploads/2017/07/tr1-optimized-180x110.jpg"  data-delay="6379"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
-		<img src="wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="tr1-optimized"  width="2000" height="1448" data-lazyload="images/header/slider1.jpeg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<img src="wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="tr1-optimized"  width="2000" height="500" data-lazyload="images/header/slider1.jpeg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
 
 		<!-- LAYER NR. 1 -->
@@ -529,7 +547,7 @@ span.wpcf7-list-item {
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 6; white-space: nowrap; font-size: 80px; line-height: 65px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: px;font-family:Montserrat;">INNOVATIVE TOOL
+			style="z-index: 6; white-space: nowrap; top:70px; font-size: 80px; line-height: 65px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: px;font-family:Montserrat;">INNOVATIVE TOOL
  </div>
 
 		<!-- LAYER NR. 3 -->
@@ -551,50 +569,8 @@ span.wpcf7-list-item {
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 7; white-space: nowrap; font-size: 22px; font-weight: 400; letter-spacing: px;font-family:Kaushan Script;">Stand out with the site that rocks!
- </div>
-
-		<!-- LAYER NR. 4 -->
-		<div class="tp-caption   tp-resizeme" 
-			 id="slide-195-layer-4" 
-			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-			 data-y="['middle','middle','middle','middle']" data-voffset="['146','146','146','146']" 
-						data-width="none"
-			data-height="none"
-			data-whitespace="nowrap"
- 
-			data-type="image" 
-			data-responsive_offset="on" 
-
-			data-frames='[{"delay":1900,"speed":300,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Linear.easeNone"},{"delay":"+3900","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
-
-			style="z-index: 8;"><img src="wp-content/plugins/revslider/admin/assets/images/dummy.png" alt="" data-ww="['180px','180px','180px','180px']" data-hh="['6px','6px','6px','6px']" width="35" height="4" data-lazyload="http://crane.grooni.com/wp-content/uploads/2017/07/img_greenline-optimized.png" data-no-retina> </div>
-
-		<!-- LAYER NR. 5 -->
-		<div class="tp-caption   tp-resizeme" 
-			 id="slide-195-layer-7" 
-			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-			 data-y="['middle','middle','middle','middle']" data-voffset="['90','90','90','90']" 
-						data-width="none"
-			data-height="none"
-			data-whitespace="nowrap"
- 
-			data-type="image" 
-			data-responsive_offset="on" 
-
-			data-frames='[{"delay":1900,"speed":350,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Linear.easeNone"},{"delay":"+3850","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
-
-			style="z-index: 9;"><img src="wp-content/plugins/revslider/admin/assets/images/dummy.png" alt="" data-ww="['180px','180px','180px','180px']" data-hh="['6px','6px','6px','6px']" width="35" height="4" data-lazyload="http://crane.grooni.com/wp-content/uploads/2017/07/img_greenline-optimized.png" data-no-retina> </div>
+			style="z-index: 7; white-space: nowrap; font-size: 22px; top:140px; font-weight: 400; letter-spacing: px;font-family:Kaushan Script;">Stand out with the site that rocks!
+ </div>		
 
 		<!-- LAYER NR. 6 -->
 		<div class="tp-caption rev-btn " 
@@ -616,12 +592,20 @@ span.wpcf7-list-item {
 			data-paddingbottom="[12,12,12,12]"
 			data-paddingleft="[35,35,35,35]"
 
-			style="z-index: 10; white-space: nowrap; font-size: 12px; line-height: 20px; font-weight: 900; color: rgba(255,255,255,1); letter-spacing: px;font-family:open sans;border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:2px;cursor:pointer;">CLICK HERE </div>
+			style="z-index: 10; white-space: nowrap; top:210px; font-size: 12px; line-height: 20px; font-weight: 900; color: rgba(255,255,255,1); letter-spacing: px;font-family:open sans;border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:2px;cursor:pointer;">
+            
+            <button style="background-color:#93cb52; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-custom">GET STARTED</button>
+            
+             </div>
 	</li>
+    
+    
+    
+    
 	<!-- SLIDE  -->
 	<li data-index="rs-196" data-transition="slidehorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://crane.grooni.com/wp-content/uploads/2016/01/tr2-180x110.jpg"  data-delay="6089"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
-		<img src="wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="tr2"  width="2000" height="1448" data-lazyload="images/header/slider2.jpeg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<img src="wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="tr2"  width="2000" height="500" data-lazyload="images/header/slider2.jpeg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
 
 		<!-- LAYER NR. 7 -->
@@ -644,7 +628,7 @@ span.wpcf7-list-item {
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 5; white-space: nowrap; font-size: 70px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: px;font-family:Montserrat;">BUSINESS </div>
+			style="z-index: 5; white-space: nowrap; font-size: 70px; top:0px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: px;font-family:Montserrat;">BUSINESS </div>
 
 		<!-- LAYER NR. 8 -->
 		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
@@ -666,7 +650,7 @@ span.wpcf7-list-item {
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 6; white-space: nowrap; font-size: 80px; line-height: 65px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: px;font-family:Montserrat;">WITH CRANE THEME </div>
+			style="z-index: 6; white-space: nowrap; font-size: 80px; top:70px; line-height: 65px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: px;font-family:Montserrat;">WITH SUNGREEN </div>
 
 		<!-- LAYER NR. 9 -->
 		<div class="tp-caption Gym-Subline   tp-resizeme" 
@@ -687,76 +671,41 @@ span.wpcf7-list-item {
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 7; white-space: nowrap; font-size: 22px; font-weight: 400; letter-spacing: px;font-family:Kaushan Script;">Elaborate your company style </div>
+			style="z-index: 7; white-space: nowrap; font-size: 22px; top:140px; font-weight: 400; letter-spacing: px;font-family:Kaushan Script;">Elaborate your company style </div>
 
-		<!-- LAYER NR. 10 -->
-		<div class="tp-caption   tp-resizeme" 
-			 id="slide-196-layer-3" 
-			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-			 data-y="['middle','middle','middle','middle']" data-voffset="['90','90','90','90']" 
-						data-width="none"
-			data-height="none"
-			data-whitespace="nowrap"
- 
-			data-type="image" 
-			data-responsive_offset="on" 
-
-			data-frames='[{"delay":1890,"speed":300,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Linear.easeNone"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
-
-			style="z-index: 8;"><img src="wp-content/plugins/revslider/admin/assets/images/dummy.png" alt="" data-ww="['180px','180px','180px','180px']" data-hh="['6px','6px','6px','6px']" width="35" height="4" data-lazyload="http://crane.grooni.com/wp-content/uploads/2015/06/img_greenline.png" data-no-retina> </div>
-
-		<!-- LAYER NR. 11 -->
-		<div class="tp-caption   tp-resizeme" 
-			 id="slide-196-layer-4" 
-			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-			 data-y="['middle','middle','middle','middle']" data-voffset="['146','146','146','146']" 
-						data-width="none"
-			data-height="none"
-			data-whitespace="nowrap"
- 
-			data-type="image" 
-			data-responsive_offset="on" 
-
-			data-frames='[{"delay":1900,"speed":300,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Linear.easeNone"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
-
-			style="z-index: 9;"><img src="wp-content/plugins/revslider/admin/assets/images/dummy.png" alt="" data-ww="['180px','180px','180px','180px']" data-hh="['6px','6px','6px','6px']" width="35" height="4" data-lazyload="http://crane.grooni.com/wp-content/uploads/2015/06/img_greenline.png" data-no-retina> </div>
 
 		<!-- LAYER NR. 12 -->
-		<div class="tp-caption Fashion-SmallText   tp-resizeme" 
-			 id="slide-196-layer-5" 
+<div class="tp-caption rev-btn " 
+			 id="slide-195-layer-8" 
 			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
 			 data-y="['middle','middle','middle','middle']" data-voffset="['120','120','120','120']" 
 						data-width="none"
 			data-height="none"
 			data-whitespace="nowrap"
  
-			data-type="text" 
+			data-type="button" 
+			data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"no-space-masonry\/","delay":""}]'
 			data-responsive_offset="on" 
-
-			data-frames='[{"delay":1900,"speed":350,"frame":"0","from":"x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Linear.easeNone"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-responsive="off"
+			data-frames='[{"delay":1900,"speed":350,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Linear.easeNone"},{"delay":"+3850","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255,255,255,1);td:underline;bs:solid;bw:0 0 0 0;"}]'
 			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
+			data-paddingtop="[12,12,12,12]"
+			data-paddingright="[35,35,35,35]"
+			data-paddingbottom="[12,12,12,12]"
+			data-paddingleft="[35,35,35,35]"
 
-			style="z-index: 10; white-space: nowrap; font-weight: 900; letter-spacing: ;font-family:open sans;">SEE OUR WORK
- </div>
+			style="z-index: 10; white-space: nowrap; font-size: 12px; top:210px; line-height: 20px; font-weight: 900; color: rgba(255,255,255,1); letter-spacing: px;font-family:open sans;border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:2px;cursor:pointer;">
+            
+            <button style="background-color:#93cb52; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-custom">GET STARTED</button>
+            
+             </div>
+ 
+ 
 	</li>
 	<!-- SLIDE  -->
 	<li data-index="rs-198" data-transition="slidehorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://crane.grooni.com/wp-content/uploads/2015/09/img_home01_slider022-180x110.jpg"  data-delay="6089"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
-		<img src="wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="img_home01_slider02"  width="1920" height="1281" data-lazyload="images/header/slider3.jpeg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
+		<img src="wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="img_home01_slider02"  width="1920" height="500" data-lazyload="images/header/slider3.jpeg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
 
 		<!-- LAYER NR. 13 -->
@@ -779,7 +728,7 @@ span.wpcf7-list-item {
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 5; white-space: nowrap; font-size: 70px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: px;font-family:Montserrat;">UNLEASH </div>
+			style="z-index: 5; white-space: nowrap; font-size: 70px; top:0px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: px;font-family:Montserrat;">RENEWABLE</div>
 
 		<!-- LAYER NR. 14 -->
 		<div class="tp-caption Fashion-BigDisplay   tp-resizeme" 
@@ -801,7 +750,7 @@ span.wpcf7-list-item {
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 6; white-space: nowrap; font-size: 80px; line-height: 65px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: px;font-family:Montserrat;">YOUR CREATIVITY </div>
+			style="z-index: 6; white-space: nowrap; top:70px; font-size: 80px; line-height: 65px; font-weight: 700; color: rgba(255,255,255,1); letter-spacing: px;font-family:Montserrat;">ENERGY SYSTEM</div>
 
 		<!-- LAYER NR. 15 -->
 		<div class="tp-caption Gym-Subline   tp-resizeme" 
@@ -822,71 +771,35 @@ span.wpcf7-list-item {
 			data-paddingbottom="[0,0,0,0]"
 			data-paddingleft="[0,0,0,0]"
 
-			style="z-index: 7; white-space: nowrap; font-size: 22px; font-weight: 400; letter-spacing: px;font-family:Kaushan Script;">Revive your innovative voice </div>
+			style="z-index: 7; white-space: nowrap; top:140px; font-size: 22px; font-weight: 400; letter-spacing: px;font-family:Kaushan Script;">Revive your innovative voice </div>
 
-		<!-- LAYER NR. 16 -->
-		<div class="tp-caption   tp-resizeme" 
-			 id="slide-198-layer-3" 
-			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-			 data-y="['middle','middle','middle','middle']" data-voffset="['90','90','90','90']" 
-						data-width="none"
-			data-height="none"
-			data-whitespace="nowrap"
- 
-			data-type="image" 
-			data-responsive_offset="on" 
 
-			data-frames='[{"delay":1900,"speed":350,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Linear.easeNone"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
-
-			style="z-index: 8;"><img src="wp-content/plugins/revslider/admin/assets/images/dummy.png" alt="" data-ww="['180px','180px','180px','180px']" data-hh="['6px','6px','6px','6px']" width="35" height="4" data-lazyload="http://crane.grooni.com/wp-content/uploads/2015/06/img_greenline.png" data-no-retina> </div>
-
-		<!-- LAYER NR. 17 -->
-		<div class="tp-caption   tp-resizeme" 
-			 id="slide-198-layer-4" 
-			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-			 data-y="['middle','middle','middle','middle']" data-voffset="['146','146','146','146']" 
-						data-width="none"
-			data-height="none"
-			data-whitespace="nowrap"
- 
-			data-type="image" 
-			data-responsive_offset="on" 
-
-			data-frames='[{"delay":1900,"speed":350,"frame":"0","from":"z:0;rX:0;rY:0;rZ:0;sX:0.8;sY:0.8;skX:0;skY:0;opacity:0;","to":"o:1;","ease":"Linear.easeNone"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
-			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
-
-			style="z-index: 9;"><img src="wp-content/plugins/revslider/admin/assets/images/dummy.png" alt="" data-ww="['180px','180px','180px','180px']" data-hh="['6px','6px','6px','6px']" width="35" height="4" data-lazyload="http://crane.grooni.com/wp-content/uploads/2015/06/img_greenline.png" data-no-retina> </div>
 
 		<!-- LAYER NR. 18 -->
-		<div class="tp-caption Fashion-SmallText   tp-resizeme" 
-			 id="slide-198-layer-5" 
+<div class="tp-caption rev-btn " 
+			 id="slide-195-layer-8" 
 			 data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" 
-			 data-y="['middle','middle','middle','middle']" data-voffset="['120','120','120','119']" 
+			 data-y="['middle','middle','middle','middle']" data-voffset="['120','120','120','120']" 
 						data-width="none"
 			data-height="none"
 			data-whitespace="nowrap"
  
-			data-type="text" 
+			data-type="button" 
+			data-actions='[{"event":"click","action":"simplelink","target":"_self","url":"no-space-masonry\/","delay":""}]'
 			data-responsive_offset="on" 
-
-			data-frames='[{"delay":1900,"speed":350,"frame":"0","from":"x:[-175%];y:0px;z:0;rX:0;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:1;","mask":"x:[100%];y:0;s:inherit;e:inherit;","to":"o:1;","ease":"Linear.easeNone"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"}]'
+			data-responsive="off"
+			data-frames='[{"delay":1900,"speed":350,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Linear.easeNone"},{"delay":"+3850","speed":300,"frame":"999","to":"opacity:0;","ease":"nothing"},{"frame":"hover","speed":"0","ease":"Linear.easeNone","to":"o:1;rX:0;rY:0;rZ:0;z:0;","style":"c:rgba(255,255,255,1);td:underline;bs:solid;bw:0 0 0 0;"}]'
 			data-textAlign="['left','left','left','left']"
-			data-paddingtop="[0,0,0,0]"
-			data-paddingright="[0,0,0,0]"
-			data-paddingbottom="[0,0,0,0]"
-			data-paddingleft="[0,0,0,0]"
+			data-paddingtop="[12,12,12,12]"
+			data-paddingright="[35,35,35,35]"
+			data-paddingbottom="[12,12,12,12]"
+			data-paddingleft="[35,35,35,35]"
 
-			style="z-index: 10; white-space: nowrap; font-weight: 900; letter-spacing: ;font-family:open sans;">SEE OUR WORK
- </div>
+			style="z-index: 10; white-space: nowrap; top:210px; font-size: 12px; line-height: 20px; font-weight: 900; color: rgba(255,255,255,1); letter-spacing: px;font-family:open sans;border-color:rgba(0,0,0,1);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;letter-spacing:2px;cursor:pointer;">
+            
+            <button style="background-color:#93cb52; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-custom">GET STARTED</button>
+            
+             </div>
 	</li>
 	
 	</ul>
