@@ -641,7 +641,7 @@ span.wpcf7-list-item {
 
 </li>
 
-<li id="menu-item-3540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown"><a href="/dev/admin" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-notebook"></span><span class="gm-menu-item__txt">Admin</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
+<li id="menu-item-3540" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children gm-menu-item gm-dropdown"><a href="/dev/backoffice/admin" class=" gm-dropdown-toggle"><span class="gm-menu-item__icon groovy-69018-notebook"></span><span class="gm-menu-item__txt">Admin</span><span class="gm-caret"><i class="fa fa-fw fa-angle-down"></i></span></a>
 
 
 </li>
