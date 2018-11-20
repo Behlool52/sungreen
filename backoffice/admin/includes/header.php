@@ -1,8 +1,10 @@
 <?php
-error_reporting(0);
 session_start();
 include 'config/config.php'; 
-//$actual_link = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
+
+//error_reporting(0);
+
+$actual_link = "https://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 
 $userrole = $_GET['role'];
 
@@ -276,8 +278,8 @@ $paymentlistcon = "SELECT id, customer_id, invoice_no, payment_mode, unused_amou
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="shortcut icon" href="assets/img/logo-fav.png">
-    <title>Beagle</title>
+    
+    <title>Sungreen - Admin Panel</title>
     <link rel="stylesheet" type="text/css" href="assets/lib/perfect-scrollbar/css/perfect-scrollbar.min.css"/>
     <link rel="stylesheet" type="text/css" href="assets/lib/material-design-icons/css/material-design-iconic-font.min.css"/><!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -333,7 +335,7 @@ $paymentlistcon = "SELECT id, customer_id, invoice_no, payment_mode, unused_amou
 		
 		
 
-		<?php if($actual_link!='http://designsintellect.com.au/invoice/admin/'){ ?>
+		<?php if($actual_link!='https://sungreen.com.au/dev/backoffice/admin/'){ ?>
 		
       <nav class="navbar navbar-default navbar-fixed-top be-top-header">
         <div class="container-fluid">

@@ -323,7 +323,7 @@ $tstque = mysql_query($testcon);
              	<li data-transition="random" data-slotamount="1" data-masterspeed="500" data-saveperformance="on" data-title="SOLAR ENERGY SERVICE PROVIDER"> 
                 
                 <!-- MAIN IMAGE --> 
-                <img src="https://earthsave.com.au/admin/assets/img/headers/<?php echo $pgrow['featured_pic']; ?>" alt="SOLAR ENERGY SERVICE PROVIDER" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat"> 
+                <img src="https://sungreen.com.au/dev/backoffice/admin/assets/img/headers/<?php echo $pgrow['featured_pic']; ?>" alt="SOLAR ENERGY SERVICE PROVIDER" data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat"> 
 					
 										
 					<div class="tp-caption tt-slider-title  sft headertext" data-x="20" data-y="200" data-speed="1000" data-start="500" data-easing="Power4.easeOut" data-endspeed="300" style="z-index: 999"><?php echo $pgrow['page_title'];?></div>

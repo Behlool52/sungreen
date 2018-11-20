@@ -365,7 +365,7 @@ $headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 $message = '<html><body>';
 $message .= 'Hello '.$fechrow['name'].'<br><br>
 You have been assigned a work order for the <strong>invoice no. '.$row[3].'</strong><br><br>
-Please access your EarthSave portal to view your work-order <a href="https://earthsave.com.au/admin/">PORTAL LINK</a><br>
+Please access your EarthSave portal to view your work-order <a href="https://sungreen.com.au/dev/backoffice/admin/">PORTAL LINK</a><br>
 Please note: Stock pickup locations and any other instructions can be viewed within the work-order<br><br>
 The STC platform for the above invoice no. is Greendeal. To manage the STC please log-in to your '.$row[24].' portal and find the STC with following details;<br><br>
 <strong>ID:</strong>   '.$stccnrow[2].' <br>

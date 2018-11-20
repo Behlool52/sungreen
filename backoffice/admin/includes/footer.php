@@ -125,7 +125,7 @@
         
 			$.ajax({
            type: "POST",
-           url: 'https://designsintellect.com.au/invoice/admin/getproductprice.php',
+           url: 'https://sungreen.com.au/invoice/admin/getproductprice.php',
            data: { 
 			   'prodid': prodid			  		
 			},
@@ -369,7 +369,7 @@ $("#add_invoice").submit(function(e) {
 	        
 
     $.ajax({           
-           url: 'https://designsintellect.com.au/invoice/admin/add_invoice.php',
+           url: 'https://sungreen.com.au/invoice/admin/add_invoice.php',
            data: m_data,
 		   processData: false,
            contentType: false,
@@ -382,10 +382,10 @@ $("#add_invoice").submit(function(e) {
 			   var json = $.parseJSON(response);
 			 
 			   if(json.status == 'success'){ //load json data from server and output message 
-				    window.location.href = 'https://designsintellect.com.au/invoice/admin/invoicelist.php?msg=success';
+				    window.location.href = 'https://sungreen.com.au/invoice/admin/invoicelist.php?msg=success';
                     $('#msg').text('Invoice Created Successfully!');
                 }else if(json.status == 'dataduplicate'){ //load json data from server and output message 
-				    window.location.href = 'https://designsintellect.com.au/invoice/admin/invoicelist.php?msg=error';
+				    window.location.href = 'https://sungreen.com.au/invoice/admin/invoicelist.php?msg=error';
                     $('#msg').text('Invoice No. already exist!');
                 }
 				else{
@@ -424,7 +424,7 @@ $(".add_panels").click(function(e) {
 	        
 
      $.ajax({           
-           url: 'https://designsintellect.com.au/invoice/admin/add_panels.php',
+           url: 'https://sungreen.com.au/invoice/admin/add_panels.php',
            data: s_data,
 		   processData: false,
            contentType: false,
@@ -538,7 +538,7 @@ $("#edit_invoice").submit(function(e) {
 	        
 
     $.ajax({           
-           url: 'https://earthsave.com.au/admin/edit_invoice_data.php',
+           url: 'https://sungreen.com.au/dev/backoffice/admin/edit_invoice_data.php',
            data: m_data,
 		   processData: false,
            contentType: false,
@@ -550,7 +550,7 @@ $("#edit_invoice").submit(function(e) {
 			   var json = $.parseJSON(response);
 			 
 			   if(json.status == 'success'){ //load json data from server and output message 
-				    window.location.href = 'https://earthsave.com.au/admin/invoicelist.php?msg=success';
+				    window.location.href = 'https://sungreen.com.au/dev/backoffice/admin/invoicelist.php?msg=success';
                     $('#msg').text('Invoice has been updated Successfully!');
                 }else{
                     output = '<div class="error">'+response.text+'</div>';
@@ -576,7 +576,7 @@ $("#addclient").submit(function(e) {
 
     $.ajax({
            type: "POST",
-           url: 'https://earthsave.com.au/admin/add_customer.php',
+           url: 'https://sungreen.com.au/dev/backoffice/admin/add_customer.php',
            data: { 
      				'formedit': 'add',
 			        'first_name': $('#first_name').val(),
@@ -689,7 +689,7 @@ if($(this).val()!=''){
 	
 	$.ajax({
            type: "POST",
-           url: 'https://earthsave.com.au/admin/update_invoice.php',
+           url: 'https://sungreen.com.au/dev/backoffice/admin/update_invoice.php',
            data: { 
      				//'formedit': 'add',
 			        'customer_id': $('#customer_id').val(),
@@ -778,7 +778,7 @@ html += '<td><select name="gst[]" id="gst_'+row_id+'" class="form-control item_u
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/getcustomerdata.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/getcustomerdata.php',    //the script to call to get data          
       data: {'clientid': $cli_id},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {
@@ -824,7 +824,7 @@ $('.panelfetch').click(function(){
 		
 		$.ajax({  
 			type : 'POST',
-			url: 'https://earthsave.com.au/admin/getpaneldata.php',    //the script to call to get data          
+			url: 'https://sungreen.com.au/dev/backoffice/admin/getpaneldata.php',    //the script to call to get data          
 			data: {'invoiceid': $invo_id},  
 			success: function(data)          
 			{
@@ -871,7 +871,7 @@ $('.panelfetch').click(function(){
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/getinvoicedata.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/getinvoicedata.php',    //the script to call to get data          
       data: {'invoiceid': $invo_id},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {
@@ -976,7 +976,7 @@ $('.panelfetch').click(function(){
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/getpaymentdata.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/getpaymentdata.php',    //the script to call to get data          
       data: {'paymentid': $invo_id},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {
@@ -1044,7 +1044,7 @@ $('.panelfetch').click(function(){
 			  $invo_id = $(this).val();			  
 			 $.ajax({  
 	  			type : 'POST',
-     			url: 'https://earthsave.com.au/admin/getcustomerinvoicedata.php',    //the script to call to get data          
+     			url: 'https://sungreen.com.au/dev/backoffice/admin/getcustomerinvoicedata.php',    //the script to call to get data          
       			data: {'customerinvoicesid': $invo_id},  //you can insert url argumnets here to pass to api.php
       			success: function(data)          //on recieve of reply
      				 {
@@ -1167,7 +1167,7 @@ $('.panelfetch').click(function(){
 		 
 		 $.ajax({
            type: "POST",
-           url: 'https://earthsave.com.au/admin/getdata.php',
+           url: 'https://sungreen.com.au/dev/backoffice/admin/getdata.php',
 		   data: vv_data,
 		   processData: false,
 		   contentType: false,           
@@ -1202,7 +1202,7 @@ $('.panelfetch').click(function(){
 		
 		 $.ajax({  
 	  			type : 'POST',
-     			url: 'https://earthsave.com.au/admin/getcecdata.php',    //the script to call to get data          
+     			url: 'https://sungreen.com.au/dev/backoffice/admin/getcecdata.php',    //the script to call to get data          
       			data: coc_data,
 				processData: false,
 		        contentType: false,  
@@ -1249,7 +1249,7 @@ $('.panelfetch').click(function(){
 			 
 
     	$.ajax({
-        	url: 'https://earthsave.com.au/admin/getdata.php',
+        	url: 'https://sungreen.com.au/dev/backoffice/admin/getdata.php',
 			/*data: { 
      				'formedit': 'edit',
 			        'page_id': $('#page_id').val(),
@@ -1292,7 +1292,7 @@ $('.panelfetch').click(function(){
 
     $.ajax({
            type: "POST",
-           url: 'https://earthsave.com.au/admin/getdata.php',
+           url: 'https://sungreen.com.au/dev/backoffice/admin/getdata.php',
            data: { 
      				'formedit': 'catedit',
 			        'cat_id': $('#cat_id').val(),
@@ -1341,7 +1341,7 @@ $("#addproduct").submit(function(e) {
 
     $.ajax({
            type: "POST",
-           url: 'https://designsintellect.com.au/invoice/admin/add_product.php',
+           url: 'https://sungreen.com.au/invoice/admin/add_product.php',
            data: { 
      				'formedit': 'add',
 			        'product_name': $('#product_name').val(),
@@ -1380,7 +1380,7 @@ $("#addproduct").submit(function(e) {
 		
 		 $.ajax({  
 	  			type : 'POST',
-     			url: 'https://earthsave.com.au/admin/emailinvoice.php',    //the script to call to get data          
+     			url: 'https://sungreen.com.au/dev/backoffice/admin/emailinvoice.php',    //the script to call to get data          
       			data: {
 					'customerinvoicesid': $invoce_id,
 					'company': $company,					
@@ -1413,7 +1413,7 @@ $("#addproduct").submit(function(e) {
 		
 		 $.ajax({  
 	  			type : 'POST',
-     			url: 'https://earthsave.com.au/admin/addgreendeal.php',    //the script to call to get data          
+     			url: 'https://sungreen.com.au/dev/backoffice/admin/addgreendeal.php',    //the script to call to get data          
       			data: {
 					'greeninvoicesid': $invoce_id,					
 					'poid': $poid,
@@ -1444,7 +1444,7 @@ $("#addproduct").submit(function(e) {
 			
              $.ajax({
                  type : 'POST',
-                 url: 'https://earthsave.com.au/admin/addachievers.php',    //the script to call to get data
+                 url: 'https://sungreen.com.au/dev/backoffice/admin/addachievers.php',    //the script to call to get data
                  data: {
                      'achieversinvoicesid': $invoce_id,
                      'poid': $poid,
@@ -1477,7 +1477,7 @@ $("#addproduct").submit(function(e) {
 		
 		 $.ajax({  
 	  			type : 'POST',
-     			url: 'https://earthsave.com.au/admin/editinvoicestatus.php',    //the script to call to get data          
+     			url: 'https://sungreen.com.au/dev/backoffice/admin/editinvoicestatus.php',    //the script to call to get data          
       			data: {
 					'invoid': $invoice_id,
 					'invostatus': $invostatus
@@ -1505,7 +1505,7 @@ $("#addproduct").submit(function(e) {
 		
 		 $.ajax({  
 	  			type : 'POST',
-     			url: 'https://earthsave.com.au/admin/editstcstatus.php',    //the script to call to get data          
+     			url: 'https://sungreen.com.au/dev/backoffice/admin/editstcstatus.php',    //the script to call to get data          
       			data: {
 					'invoid': $invoice_id,
 					'invostatus': $invostatus
@@ -1538,7 +1538,7 @@ $("#addproduct").submit(function(e) {
 		
 		 $.ajax({  
 	  			type : 'POST',
-     			url: 'https://earthsave.com.au/admin/editinvoicestatusmain.php',    //the script to call to get data          
+     			url: 'https://sungreen.com.au/dev/backoffice/admin/editinvoicestatusmain.php',    //the script to call to get data          
       			data: {
 					'invoid': $invoice_id,
 					'invostatus': $invostatus
@@ -1566,7 +1566,7 @@ $("#addproduct").submit(function(e) {
 		
 		 $.ajax({  
 	  			type : 'POST',
-     			url: 'https://earthsave.com.au/admin/emailstc.php',    //the script to call to get data          
+     			url: 'https://sungreen.com.au/dev/backoffice/admin/emailstc.php',    //the script to call to get data          
       			data: {
 					'customerinvoicesid': $invoce_id,
 					'purpose': 'onlystc',
@@ -1592,7 +1592,7 @@ $("#addproduct").submit(function(e) {
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/getproductdata.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/getproductdata.php',    //the script to call to get data          
       data: {'productid': $pro_id},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {
@@ -1622,7 +1622,7 @@ $("#addproduct").submit(function(e) {
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/getuserdata.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/getuserdata.php',    //the script to call to get data          
       data: {'userid': $user_id},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {
@@ -1684,7 +1684,7 @@ $("#addproduct").submit(function(e) {
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/deluserdata.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/deluserdata.php',    //the script to call to get data          
       data: {'userid': $user_id},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {		    
@@ -1692,7 +1692,7 @@ $("#addproduct").submit(function(e) {
 		console.log(data);
 
 		alert('User has been deleted successfully');
-        window.location.href = 'https://earthsave.com.au/admin/electricianlist.php?role=electrician';		
+        window.location.href = 'https://sungreen.com.au/dev/backoffice/admin/electricianlist.php?role=electrician';		
 		
 	
       } 
@@ -1710,7 +1710,7 @@ $("#addproduct").submit(function(e) {
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/delclientdata.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/delclientdata.php',    //the script to call to get data          
       data: {'userid': $user_id},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {		    
@@ -1718,7 +1718,7 @@ $("#addproduct").submit(function(e) {
 		console.log(data);
 
 		alert('Client has been removed successfully');
-        window.location.href = 'https://earthsave.com.au/admin/clientlist.php';		
+        window.location.href = 'https://sungreen.com.au/dev/backoffice/admin/clientlist.php';		
 		
 	
       } 
@@ -1737,7 +1737,7 @@ $("#addproduct").submit(function(e) {
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/delproductdata.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/delproductdata.php',    //the script to call to get data          
       data: {'userid': $user_id},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {		    
@@ -1745,7 +1745,7 @@ $("#addproduct").submit(function(e) {
 		console.log(data);
 
 		alert('Product has been removed successfully');
-        window.location.href = 'https://earthsave.com.au/admin/productlist.php';		
+        window.location.href = 'https://sungreen.com.au/dev/backoffice/admin/productlist.php';		
 		
 	
       } 
@@ -1762,14 +1762,14 @@ $("#addproduct").submit(function(e) {
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/delpayment.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/delpayment.php',    //the script to call to get data          
       data: {'userid': $user_id},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {		    
 		  
 		console.log(data);
 		alert('Payment has been deleted successfully');
-        window.location.href = 'https://earthsave.com.au/admin/paymentlist.php';		
+        window.location.href = 'https://sungreen.com.au/dev/backoffice/admin/paymentlist.php';		
 		
 	
       } 
@@ -1783,7 +1783,7 @@ $("#addproduct").submit(function(e) {
 		
 		$.ajax({
            type: "POST",
-           url: 'https://earthsave.com.au/admin/add_workorder.php',
+           url: 'https://sungreen.com.au/dev/backoffice/admin/add_workorder.php',
            data: { 
      				
 			        
@@ -1832,7 +1832,7 @@ $("#addproduct").submit(function(e) {
 		
 		$.ajax({
            type: "POST",
-           url: 'https://earthsave.com.au/admin/edit_workorder.php',
+           url: 'https://sungreen.com.au/dev/backoffice/admin/edit_workorder.php',
            data: { 
      				
 			        
@@ -1887,7 +1887,7 @@ $("#addproduct").submit(function(e) {
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/getworkorderdata.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/getworkorderdata.php',    //the script to call to get data          
       data: {'workid': $workid},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {
@@ -1942,7 +1942,7 @@ $("#addproduct").submit(function(e) {
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/getstcdata.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/getstcdata.php',    //the script to call to get data          
       data: {'stcid': $invoid},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {
@@ -2184,7 +2184,7 @@ $("#addproduct").submit(function(e) {
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/getgreendata.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/getgreendata.php',    //the script to call to get data          
       data: {'dealid': $dealid},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {
@@ -2212,7 +2212,7 @@ $("#addproduct").submit(function(e) {
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/getachieversdata.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/getachieversdata.php',    //the script to call to get data          
       data: {'dealid': $dealid},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {
@@ -2250,7 +2250,7 @@ $("#addproduct").submit(function(e) {
 		 
 		 $.ajax({
            type: "POST",
-           url: 'https://earthsave.com.au/admin/productedit.php',
+           url: 'https://sungreen.com.au/dev/backoffice/admin/productedit.php',
 		   data: up_data,
 		   processData: false,
 		   contentType: false,          
@@ -2289,7 +2289,7 @@ $("#addproduct").submit(function(e) {
 		 
 		 $.ajax({
            type: "POST",
-           url: 'https://earthsave.com.au/admin/useredit.php',
+           url: 'https://sungreen.com.au/dev/backoffice/admin/useredit.php',
 		   data: up_data,
 		   processData: false,
 		   contentType: false,          
@@ -2326,7 +2326,7 @@ $("#addproduct").submit(function(e) {
 		 
 		 $.ajax({
            type: "POST",
-           url: 'https://earthsave.com.au/admin/clientdataedit.php',
+           url: 'https://sungreen.com.au/dev/backoffice/admin/clientdataedit.php',
 		   data: up_data,
 		   processData: false,
 		   contentType: false,          
@@ -2370,7 +2370,7 @@ $("#addproduct").submit(function(e) {
 		
 		$.ajax({
            type: "POST",
-           url: 'https://earthsave.com.au/admin/add_stc.php',
+           url: 'https://sungreen.com.au/dev/backoffice/admin/add_stc.php',
            data: {      				
 			        
 			        'invoice_no': $('#stc_invoice').val(),     
@@ -2487,7 +2487,7 @@ $("#addproduct").submit(function(e) {
 		
 		$.ajax({
            type: "POST",
-           url: 'https://earthsave.com.au/admin/edit_stc.php',
+           url: 'https://sungreen.com.au/dev/backoffice/admin/edit_stc.php',
            data: {      				
 			        
 			        'editby': $('#stc_edit_by').val(),     
@@ -2612,7 +2612,7 @@ $(".adduser").submit(function(e) {
 	
     $.ajax({
            type: "POST",
-           url: 'https://earthsave.com.au/admin/add_user.php',
+           url: 'https://sungreen.com.au/dev/backoffice/admin/add_user.php',
            data: { 
      				'role': userrole,
 			        'name': $('#name').val(),
@@ -2633,7 +2633,7 @@ $(".adduser").submit(function(e) {
            {
                console.log(data); // show response from the php script.
 			   alert('User has been added!'); // show response from the php script.
-			    window.location.href = 'https://earthsave.com.au/admin/electricianlist.php?role=electrician';
+			    window.location.href = 'https://sungreen.com.au/dev/backoffice/admin/electricianlist.php?role=electrician';
            }
          });
 		
@@ -2654,7 +2654,7 @@ $('#emailpopup').click(function(){
 	
 		 $.ajax({  
 		  type : 'POST',
-		  url: 'https://earthsave.com.au/admin/getinvoiceusers.php',    //the script to call to get data          
+		  url: 'https://sungreen.com.au/dev/backoffice/admin/getinvoiceusers.php',    //the script to call to get data          
 		  data: {'invoiceno': $invo},  //you can insert url argumnets here to pass to api.php
 		  success: function(data)          //on recieve of reply
 			  {
@@ -2679,7 +2679,7 @@ $('.invoicetodel').click(function(){
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/delinvoice.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/delinvoice.php',    //the script to call to get data          
       data: {'invoiceid': $invo_id},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {
@@ -2690,7 +2690,7 @@ $('.invoicetodel').click(function(){
 		  
 		  console.log(data);
 		  alert('Invoice has been deleted successfully');
-		  window.location.href = 'https://earthsave.com.au/admin/invoicelist.php';
+		  window.location.href = 'https://sungreen.com.au/dev/backoffice/admin/invoicelist.php';
 		  
 		  
 		  
@@ -2715,7 +2715,7 @@ $('.invoicetodel').click(function(){
 			  $invo_id = $(this).val();			  
 			 $.ajax({  
 	  			type : 'POST',
-     			url: 'https://earthsave.com.au/admin/getuserinvoicedata.php',    //the script to call to get data          
+     			url: 'https://sungreen.com.au/dev/backoffice/admin/getuserinvoicedata.php',    //the script to call to get data          
       			data: {'userinvoicesid': $invo_id},  //you can insert url argumnets here to pass to api.php
       			success: function(data)          //on recieve of reply
      				 {
@@ -2781,7 +2781,7 @@ $('#customer_idd').change(function(){
 	
 	  $.ajax({  
 	  type : 'POST',
-      url: 'https://earthsave.com.au/admin/getcustomerdata.php',    //the script to call to get data          
+      url: 'https://sungreen.com.au/dev/backoffice/admin/getcustomerdata.php',    //the script to call to get data          
       data: {'clientid': $cli_id},  //you can insert url argumnets here to pass to api.php
       success: function(data)          //on recieve of reply
       {
@@ -2956,7 +2956,7 @@ $('#customer_idd').change(function(){
 	function timerIncrement() {
     	idleTime = idleTime + 1;
     		if (idleTime > idleMax) { 
-       		 window.location="https://earthsave.com.au/admin/";
+       		 window.location="https://sungreen.com.au/dev/backoffice/admin/";
    	 }
 	}
 	</script>

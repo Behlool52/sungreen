@@ -2,12 +2,12 @@
 session_start();
 
 if($_SESSION['userrole']==''){
-header("Location: http://designsintellect.com.au/invoice/admin");
+header("Location: https://sungreen.com.au/dev/backoffice/admin");
 }
 
 if((time() - $_SESSION['last_login_timestamp']) > 900) // 900 = 15 * 60  
            {  
-                header("Location: http://designsintellect.com.au/invoice/admin");  
+                header("https://sungreen.com.au/dev/backoffice/admin");  
            }  
 
 include 'includes/header.php';

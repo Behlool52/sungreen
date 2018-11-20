@@ -146,7 +146,7 @@ fieldset[disabled] .btn-primary:hover
                     <button type="button" class="btn btn-default" data-ember-action="" data-ember-action-345="345">
                       <svg class="icon text-bottom" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M143.5.5h230v220h-230z"></path><path d="M419.5 174.5v87h-322v-87h-98v291h98v-87h322v87h92v-291z"></path><path d="M127.5 424.5h256v88h-256z"></path></svg>
                     </button>
-                    <button onclick="window.print()" type="button" class="btn btn-default" data-ember-action="" data-ember-action-346="346">
+                    <button onClick="window.print()" type="button" class="btn btn-default" data-ember-action="" data-ember-action-346="346">
                       <svg class="icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M396.2 364l-49.7 51h-176l-52.3-51H-.5v148h512V364z"></path><path d="M396.2 235h-89.7V51h-101v184h-87.3L256 376.6z"></path></svg>
                     </button>
 <!---->              </div>
@@ -465,7 +465,7 @@ fieldset[disabled] .btn-primary:hover
           <td style="vertical-align: top; width:50%;">
               <div>
              </div>
-                <span class="pcs-orgname"><img src="https://earthsave.com.au/admin/assets/img/logo.png"></span><br><br>
+                <span class="pcs-orgname"><img src="https://sungreen.com.au/dev/backoffice/admin/assets/img/logo.png"></span><br><br>
                 <span class="pcs-label">
                   <span id="tmp_org_address">
 					

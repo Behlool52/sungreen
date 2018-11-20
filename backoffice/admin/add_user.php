@@ -39,7 +39,7 @@ $message = "
   <strong>Welcome to the EarthSave community</strong><br /><br />
   We are delighted to introduce our Earthsave  portal where you can view your work-orders, update STC and communicate with admin in a hassle-free environment.<br />
   The portal is specifically designed to meet  our daily needs and to allow electricians to have a complete access to all documentations required for their installation. <br /><br />
-  To access your portal simply log-in to <a href='https://earthsave.com.au/admin/'>PORTAL LINK</a><br />
+  To access your portal simply log-in to <a href='https://sungreen.com.au/dev/backoffice/admin/'>PORTAL LINK</a><br />
   Your credentials are as follows,<br /><br />
   <strong>Username:</strong> $username<br />
   <strong>Password:</strong> $password<br /><br />
@@ -50,7 +50,7 @@ $message = "
   <li>To view  your work-order, log-in your portal and click the form icon under the heading *<strong>WO</strong>*</li>
   <li>If the STC are being submitted via (Emerging energy), you will be provided with an electronic STC form already completed for you under the right most *options icon* button. Simply click <strong>Update STC</strong> and the STC should pop up. You can make any amendments, take all required signatures electronically and click on update button. Once updated, admin will automatically receive the processed STC.</li>
 </ul>
-<p><img width='601' height='205' src='https://earthsave.com.au/admin/assets/img/tutorial.jpg' style='display:block'/></p>
+<p><img width='601' height='205' src='https://sungreen.com.au/dev/backoffice/admin/assets/img/tutorial.jpg' style='display:block'/></p>
 <ul>
   <li>You will  be required to enter the panel serial number, attach CES/COC certificate within your portal under the same option icon button as represented in the visual assistance above.</li>
   <li>If the STC  are being submitted via (green deal) or any other platform, you will still need to view your work-order from the portal and access the STC, attach panel serial number and CES/COC certificate within green deal portal in the usual manner. </li>
@@ -62,7 +62,7 @@ $message = "
 
 
 Thank you,<br><br>
-<span><img src='https://earthsave.com.au/admin/assets/img/logo.png'></span><br>
+<span><img src='https://sungreen.com.au/dev/backoffice/admin/assets/img/logo.png'></span><br>
 <span>Tel: 1300 00 5253</span><br>
 <span>Web: <a href='https://www.earthsave.com.au'>www.earthsave.com.au</a></span>
 </td>
@@ -108,7 +108,7 @@ $message = "
   <strong>Welcome to the EarthSave community</strong><br /><br />
  We are delighted to introduce our Earthsave portal where you can view your sales and communicate with admin in a hassle-free environment.<br /><br />
   The portal is specifically designed to meet our daily needs and to allow Salespeople to have a complete access to all their sales and be able to view the status for invoice payment and electrician comments for Solar install progress. <br /><br />
-  To access your portal simply log-in to <a href='https://earthsave.com.au/admin/'>PORTAL LINK</a><br />
+  To access your portal simply log-in to <a href='https://sungreen.com.au/dev/backoffice/admin/'>PORTAL LINK</a><br />
   Your credentials are as follows,<br /><br />
   <strong>Username:</strong> $username<br />
   <strong>Password:</strong> $password<br /><br />
@@ -122,7 +122,7 @@ $message = "
 
 
 Thank you,<br><br>
-<span><img src='https://earthsave.com.au/admin/assets/img/logo.png'></span><br>
+<span><img src='https://sungreen.com.au/dev/backoffice/admin/assets/img/logo.png'></span><br>
 <span>Tel: 1300 00 5253</span><br>
 <span>Web: <a href='https://www.earthsave.com.au'>www.earthsave.com.au</a></span>
 </td>
@@ -168,14 +168,14 @@ $message = "
   <strong>Welcome to the EarthSave community</strong><br /><br />
 We are delighted to introduce our Earthsave portal where you can view your sales and communicate with admin in a hassle-free environment.<br /><br />
  The portal is specifically designed to meet our daily needs and to allow agents to have a complete access to all their sales and be able to view the status for invoice payment and electrician comments for Solar install progress.<br /><br />
-  To access your portal simply log-in to <a href='https://earthsave.com.au/admin/'>PORTAL LINK</a><br />
+  To access your portal simply log-in to <a href='https://sungreen.com.au/dev/backoffice/admin/'>PORTAL LINK</a><br />
   Your credentials are as follows,<br /><br />
   <strong>Username:</strong> $username<br />
   <strong>Password:</strong> $password<br /><br />
  
 
 Thank you,<br><br>
-<span><img src='https://earthsave.com.au/admin/assets/img/logo.png'></span><br>
+<span><img src='https://sungreen.com.au/dev/backoffice/admin/assets/img/logo.png'></span><br>
 <span>Tel: 1300 00 5253</span><br>
 <span>Web: <a href='https://www.earthsave.com.au'>www.earthsave.com.au</a></span>
 </td>

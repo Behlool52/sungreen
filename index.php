@@ -5,7 +5,7 @@
 		<meta charset="utf-8" /
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
 	<link rel="pingback" href="xmlrpc.php">
 
 	<title>Sungreen Solar</title>
@@ -13,8 +13,8 @@
 		var ajaxurl = 'wp-admin/admin-ajax.html';
 		</script>
 		<link rel='dns-prefetch' href='index.html' />
-<link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-<link rel='dns-prefetch' href='http://s.w.org/' />
+<link rel='dns-prefetch' href='https://fonts.googleapis.com/' />
+<link rel='dns-prefetch' href='https://s.w.org/' />
 <link rel="alternate" type="application/rss+xml" title="The Crane &raquo; Feed" href="feed/index.html" />
 <link rel="alternate" type="application/rss+xml" title="The Crane &raquo; Comments Feed" href="comments/feed/index.html" />
 
@@ -211,7 +211,7 @@ img.emoji {
 <link rel='stylesheet' id='ult-icons-css'  href='wp-content/plugins/Ultimate_VC_Addons/assets/css/icons957f.css?ver=3.16.25' type='text/css' media='all' />
 <link rel='stylesheet' id='cp-module-main-style-css'  href='wp-content/plugins/convertplug/modules/assets/css/cp-module-main5010.css?ver=4.9.8' type='text/css' media='all' />
 <link rel='stylesheet' id='smile-modal-style-css'  href='wp-content/plugins/convertplug/modules/modal/assets/css/modal.min5010.css?ver=4.9.8' type='text/css' media='all' />
-<link rel='stylesheet' id='redux-google-fonts-crane_options-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%2C300italic%2C400italic%2C600italic%2C700italic%2C800italic&amp;subset=latin&amp;ver=1539326210' type='text/css' media='all' />
+<link rel='stylesheet' id='redux-google-fonts-crane_options-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800%2C300italic%2C400italic%2C600italic%2C700italic%2C800italic&amp;subset=latin&amp;ver=1539326210' type='text/css' media='all' />
 <script type='text/javascript'>
 /* <![CDATA[ */
 var slide_in = {"demo_dir":"http:\/\/crane.grooni.com\/wp-content\/plugins\/convertplug\/modules\/slide_in\/assets\/demos"};
@@ -236,7 +236,7 @@ var slide_in = {"demo_dir":"http:\/\/crane.grooni.com\/wp-content\/plugins\/conv
 <link rel="icon" href="wp-content/uploads/2015/10/favicon.png" sizes="32x32" />
 <link rel="icon" href="wp-content/uploads/2015/10/favicon.png" sizes="192x192" />
 <link rel="apple-touch-icon-precomposed" href="wp-content/uploads/2015/10/favicon.png" />
-<meta name="msapplication-TileImage" content="http://crane.grooni.com/wp-content/uploads/2015/10/favicon.png" />
+
 <script type="text/javascript">function setREVStartSize(e){									
 						try{ e.c=jQuery(e.c);var i=jQuery(window).width(),t=9999,r=0,n=0,l=0,f=0,s=0,h=0;
 							if(e.responsiveLevels&&(jQuery.each(e.responsiveLevels,function(e,f){f>i&&(t=r=f,l=e),i>f&&f>r&&(r=f,n=e)}),t>r&&(l=n)),f=e.gridheight[l]||e.gridheight[0]||e.gridheight,s=e.gridwidth[l]||e.gridwidth[0]||e.gridwidth,h=i/s,h=h>1?1:h,f=Math.round(h*f),"fullscreen"==e.sliderLayout){var u=(e.c.width(),jQuery(window).height());if(void 0!=e.fullScreenOffsetContainer){var c=e.fullScreenOffsetContainer.split(",");if (c) jQuery.each(c,function(e,i){u=jQuery(i).length>0?u-jQuery(i).outerHeight(!0):u}),e.fullScreenOffset.split("%").length>1&&void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0?u-=jQuery(window).height()*parseInt(e.fullScreenOffset,0)/100:void 0!=e.fullScreenOffset&&e.fullScreenOffset.length>0&&(u-=parseInt(e.fullScreenOffset,0))}f=u}else void 0!=e.minHeight&&f<e.minHeight&&(f=e.minHeight);e.c.closest(".rev_slider_wrapper").css({height:f})					
@@ -495,12 +495,12 @@ span.wpcf7-list-item {
 			
 							<div id="content">
 					<div class="crane-section">
-					<div class="crane-container-fluid crane-container--no-padding"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1448019345221"><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element"><link href="http://fonts.googleapis.com/css?family=Montserrat:700%26subset%3Dlatin%7CKaushan+Script:400%26subset%3Dlatin%7COpen+Sans:900%26subset%3Dlatin" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+					<div class="crane-container-fluid crane-container--no-padding"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill"><div class="vc_column-inner vc_custom_1448019345221"><div class="wpb_wrapper"><div class="wpb_revslider_element wpb_content_element"><link href="https://fonts.googleapis.com/css?family=Montserrat:700%26subset%3Dlatin%7CKaushan+Script:400%26subset%3Dlatin%7COpen+Sans:900%26subset%3Dlatin" rel="stylesheet" property="stylesheet" type="text/css" media="all">
 <div id="rev_slider_59_1_wrapper" class="rev_slider_wrapper fullscreen-container" data-source="gallery" style="background:transparent;padding:0px;">
 <!-- START REVOLUTION SLIDER 5.4.8 fullscreen mode -->
 	<div id="rev_slider_59_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.8">
 <ul>	<!-- SLIDE  -->
-	<li data-index="rs-195" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="http://crane.grooni.com/wp-content/uploads/2017/07/tr1-optimized-180x110.jpg"  data-delay="6379"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+	<li data-index="rs-195" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="300"  data-thumb="https://crane.grooni.com/wp-content/uploads/2017/07/tr1-optimized-180x110.jpg"  data-delay="6379"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
 		<img src="wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="tr1-optimized"  width="2000" height="500" data-lazyload="images/header/slider1.jpeg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
@@ -603,7 +603,7 @@ span.wpcf7-list-item {
     
     
 	<!-- SLIDE  -->
-	<li data-index="rs-196" data-transition="slidehorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://crane.grooni.com/wp-content/uploads/2016/01/tr2-180x110.jpg"  data-delay="6089"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+	<li data-index="rs-196" data-transition="slidehorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="https://crane.grooni.com/wp-content/uploads/2016/01/tr2-180x110.jpg"  data-delay="6089"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
 		<img src="wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="tr2"  width="2000" height="500" data-lazyload="images/header/slider2.jpeg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
@@ -703,7 +703,7 @@ span.wpcf7-list-item {
  
 	</li>
 	<!-- SLIDE  -->
-	<li data-index="rs-198" data-transition="slidehorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="http://crane.grooni.com/wp-content/uploads/2015/09/img_home01_slider022-180x110.jpg"  data-delay="6089"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+	<li data-index="rs-198" data-transition="slidehorizontal" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off"  data-easein="default" data-easeout="default" data-masterspeed="default"  data-thumb="https://crane.grooni.com/wp-content/uploads/2015/09/img_home01_slider022-180x110.jpg"  data-delay="6089"  data-rotate="0"  data-saveperformance="off"  data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 		<!-- MAIN IMAGE -->
 		<img src="wp-content/plugins/revslider/admin/assets/images/dummy.png"  alt="" title="img_home01_slider02"  width="1920" height="500" data-lazyload="images/header/slider3.jpeg" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-no-retina>
 		<!-- LAYERS -->
@@ -895,7 +895,7 @@ Sungreen is the solar energy choice of more homeowners and businesses around the
 	<div  class="wpb_single_image wpb_content_element vc_align_center">
 		
 		<figure class="wpb_wrapper vc_figure">
-			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="649" height="400" src="wp-content/history.jpg" class="vc_single_image-img attachment-full" alt="" srcset="wp-content/history.jpg 649w, http://crane.grooni.com/wp-content/uploads/2015/06/mac-598x369.png 598w, http://crane.grooni.com/wp-content/uploads/2015/06/mac-300x185.png 300w" sizes="(max-width: 649px) 100vw, 649px" /></div>
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="649" height="400" src="wp-content/history.jpg" class="vc_single_image-img attachment-full" alt="" srcset="wp-content/history.jpg 649w, https://crane.grooni.com/wp-content/uploads/2015/06/mac-598x369.png 598w, https://crane.grooni.com/wp-content/uploads/2015/06/mac-300x185.png 300w" sizes="(max-width: 649px) 100vw, 649px" /></div>
 		</figure>
 	</div>
 <div class="ult-spacer spacer-5bcb61e913fe0" data-id="5bcb61e913fe0" data-height="95" data-height-mobile="57" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="57" style="clear:both;display:block;"></div></div></div></div></div></div></div></div><div class="crane-section"><div class="crane-background" style="background-image: url('wp-content/large.jpeg');background-position: center center;"></div><div class="crane-background-overlay" style="background-color: rgba(0,0,0,0.4)"></div><div class="crane-container"><div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div class="ult-spacer spacer-5bcb61e914688" data-id="5bcb61e914688" data-height="142" data-height-mobile="85" data-height-tab="" data-height-tab-portrait="" data-height-mobile-landscape="85" style="clear:both;display:block;"></div></div></div></div>

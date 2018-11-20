@@ -5,7 +5,7 @@
         <div class="main-content container-fluid">
           <div class="splash-container">
             <div class="panel panel-default panel-border-color panel-border-color-primary">
-              <div class="panel-heading"><img src="http://designsintellect.com.au/invoice/admin/assets/img/logo3.png" alt="logo" width="50%" class="logo-img">
+              <div class="panel-heading"><img src="https://sungreen.com.au/dev/backoffice/admin/assets/img/logo3.png" alt="logo" width="20%" class="logo-img">
 				
 				
 				
